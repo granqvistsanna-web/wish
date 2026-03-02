@@ -22,7 +22,7 @@ Solcellsfarmen i den här berättelsen — **Helio-9** — är den sista install
 
 **Maia** — Död innan berättelsen börjar. En technosvan som arbetade med arrayerna på Helio-9 i sex år. Briljant, tystlåten, älskad av besättningen. Officiellt dödad av en ljusbåge under en nattreparation. Men Maia lämnade något efter sig — fragment av anomal kod invävd i hennes underhållsloggar, hennes kalibreringsrutiner, hennes personliga anteckningar. Koden är märkt **TENESSA**. Ingen på Helio-9 vet vad det betyder. Eller så vill de inte säga.
 
-**[Kärleksintresset — EJ BESTÄMT]** — Någon på Helio-9 som drar Amma till sig. Kan vara farmens ledande tekniker, en soldat stationerad vid perimetern, eller en annan technosvan. Romansen är långsam, komplicerad av Ammas bedrägeri och den växande faran i det hon avslöjar. Denna karaktär kände Maia. Den kopplingen är en del av det som gör relationen farlig.
+**Samuel** — Tidigt 30-tal. Technosvan, Helio-9:s ledande arraytekniker. Jobbade sida vid sida med Maia i fyra år — de delade nattskift, verktyg, en tyst samhörighet som besättningen aldrig riktigt förstod. Sedan Maias död bär han sorgen som en kroppshållning: axlarna framåt, blicken fäst vid arbete. Han pratar lite, men när han gör det är orden exakta. Hans händer vet saker hans mun inte säger — han läser arrayerna som andra läser ansikten. Han misstänker att Maias död inte var en olycka, men han har ingen han litar på nog för att säga det. Tills Amma. Romansen är långsam, komplicerad av Ammas bedrägeri och den växande faran i det hon avslöjar. Samuel kände Maia bättre än någon — den kopplingen är en del av det som gör relationen farlig, och det som gör förrädelsen oförlåtlig om sanningen kommer fram.
 
 ## Detaljerad synopsis
 
@@ -38,17 +38,19 @@ Besättningen är på sin vakt. De svarar på hennes QA-frågor men berättar in
 
 Amma gräver djupare. Hon börjar pussla ihop vad Maia höll på med: hon använde solcellsarrayerna själva som en slags sändare eller datalagringssystem, kodade information i energiutmatningens mönster. TENESSA är inte en kod — det är ett meddelande. Eller en karta. Eller en varning.
 
-Romansen utvecklas. [Kärleksintresset] börjar lita på Amma — eller åtminstone behöva henne. Sena nätter i underhållshangaren. Samtal som börjar tekniskt och blir personliga. Fysisk spänning formad av isolering och närheten till fronten. Men Amma ljuger om vem hon är, och varje ögonblick av närhet är byggt på den lögnen.
+Romansen utvecklas. Samuel börjar lita på Amma — eller åtminstone behöva henne. Sena nätter i underhållshangaren. Samtal som börjar tekniskt och blir personliga. Han visar henne saker i arrayerna som ingen utomstående normalt får se — inte för att hon ber, utan för att han vill att någon ska förstå. Fysisk spänning formad av isolering och närheten till fronten. Men Amma ljuger om vem hon är, och varje ögonblick av närhet är byggt på den lögnen. Hennes dubbelliv — agenten som observerar, kvinnan som börjar känna — blir allt svårare att hålla isär.
 
 Amma upptäcker att Maias död kanske inte var en olycka eller ens ett enkelt mord. Ljusbågen som dödade henne kan ha utlösts på distans — av någon med Capitol-nivå åtkomst till farmens system. Det förändrar allt: Amma skickades för att utreda, men tänk om de som skickade henne redan vet svaret?
 
 ### Akt III — TENESSA
 
-Amma avkodar tillräckligt av TENESSA för att förstå dess omfattning. Maia upptäckte något om solcellsfarmerna — något Capitol inte kan tillåta att det blir känt. [Hemlighetens natur är EJ BESTÄMD — möjligheter: farmerna skördar mer än solenergi; kriget är tillverkat för att rättfärdiga farmerna; technosvanerna experimenteras på; fienden bortom fronten existerar inte.]
+Amma avkodar tillräckligt av TENESSA för att förstå dess omfattning. Maia upptäckte sanningen: **kriget är fabricerat.** Fienden bortom fronten existerar inte — eller existerar inte längre. Fronten är en kuliss, upprätthållen av Capitol för att rättfärdiga farmernas existens, technosvanernas livslånga tjänst och den militariserade kontrollen över energiinfrastrukturen. Sandstormarna, signalbortfallen, de sporadiska "anfallen" — allt orkestrerat. Capitol behöver inte farmerna för att vinna ett krig. Capitol behöver kriget för att behålla farmerna.
 
-Amma måste välja: slutföra sitt uppdrag och rapportera till Capitol (vilket kan innebära att begrava TENESSA och döma besättningen), eller förråda allt hon tränats att vara. Romansen tvingar fram detta val — hon kan inte ha både uppdraget och personen.
+Maia kodade bevisen i arrayernas energimönster — data som inte kan raderas utan att stänga ner hela farmen. Hon dog för att hon var för nära att skicka dem vidare.
 
-Slutet är öppet eller bittersött. Amma gör sitt val, men kostnaden är verklig. TENESSA överlever — eller inte. Farmen består — eller inte. Det som spelar roll är vad Amma blir när täckmanteln dras bort.
+Amma måste välja: slutföra sitt uppdrag och rapportera till Capitol (vilket innebär att begrava TENESSA, döma besättningen, och förlora Samuel), eller förråda allt hon tränats att vara. Hennes dubbelliv kollapsar — agenten och kvinnan kan inte längre samexistera. Samuel upptäcker vem hon egentligen är, och det som byggs mellan dem splittras.
+
+Slutet är bittersött. Amma väljer att inte rapportera TENESSA till Capitol — men hon kan inte stanna på Helio-9. Samuel kan inte förlåta bedrägeriet, inte än, kanske aldrig. TENESSA överlever, kodad i arrayerna, väntande. Amma lämnar farmen som varken agent eller älskare — som något nytt, oformat, ensamt men fritt. Det sista hon ser när transportern lyfter är ljuset från arrayerna, och hon vet att Maias sanning fortfarande pulserar i dem.
 
 ## Kapitelplan
 
