@@ -1,231 +1,277 @@
 # Kapitel 1 — Fel sida
 
-Amma räknade stegen från transportens dörr till marken. Tre. Metalltrappan skakade under hennes vikt, lös i fästena, och hon lade det på minnet utan att veta varför. Yrkesdeformation. Eller bara det där sättet hennes hjärna hanterade världen — genom att dela in den i siffror, avstånd, intervaller. Saker hon kunde kontrollera.
+Tre trappsteg från transportens dörr ner till marken. Metalltrappan skakade under henne, lös i fästena. Amma tog det sista steget och stod i solen.
 
-Fyra steg till transportens skugga tog slut. Sedan bara sol.
+Hettan var annorlunda här. Torr. Den tog tag direkt, utan den fuktighet som lade sig som en hand över Capitol. Halsen, underarmarna, den vänstra axeln. Axeln svarade först, den svarade alltid först, det gamla brottet som hade sina egna åsikter om temperatur och luftfuktighet och allt annat som Amma inte kunde kontrollera.
 
-Värmen träffade henne som en vägg. Inte den fuktiga, tjocka hettan från Capitol, utan något torrare, renare, mer direkt. Som om luften hade slipats ner till bara ljus och temperatur. Hon kände den mot halsen först, sedan underarmarna, sedan axeln — den vänstra, alltid den vänstra — där den gamla skadan vaknade som ett djur som vädrat förändring.
+Transportens motor startade bakom henne. Fordonet backade i en vid cirkel och försvann tillbaka åt det håll de kommit. Hon vände sig inte om.
 
-Hon blundade. Räknade till fyra. Öppnade ögonen.
+Farmen låg söderut. Solpaneler i rader över ökenlandet, mörka rektanglar mot gul jord, vinklade trettiotvå eller trettiofem grader beroende på latitud. Hon hade läst rapporten tre gånger. Station 7-Syd. Produktionsavvikelse i modul 7-12. Den döda teknikern Maja. Tre sidor av standardformuleringar som inte sa någonting.
 
-Öknen sträckte sig i alla riktningar, brun och grå och smutsigt gul, med undantag för de mörka rektanglarna som täckte marken söderut. Solpaneler. Hundratals. De låg som fjäll över landskapet, lutade mot solen i en vinkel som hennes hjärna automatiskt beräknade — trettiotvå grader, kanske trettiofem, optimerat för latituden. Hon visste det för att hon hade läst rapporten. Tre gånger. På tåget ner, i vänthallen, och en sista gång i transportens vibrerande mörker medan dammet trummade mot rutorna.
+Huvudbyggnaden var låg, betong, med ett tak som blänkte matt i solen. Hundratjugo steg bort, kanske fler. Värmen förvrängde avståndet.
 
-Station 7-Syd. Solenergifarmen som producerade — om man fick tro den stolte veteranen i personaldatan — tretton procent av frontens energi. Antagligen mindre. Folk överdrev alltid. Särskilt folk som hade byggt saker med händerna.
+Amma lyfte väskan och gick.
 
-Amma lyfte väskan från marken. Den var inte tung. Allting hon ägde ryms i den, och det var poängen. Man ägde inte saker om man var den sortens person som kunde behöva försvinna. Två ombyten. Verktyg. Rapporten. En myntatvätt hon hade köpt vid en station vars namn hon redan glömt.
+Stövlarna var fel. Stadsstövlar, gjorda för Capitols gator, med sulor som slipade mot sanden istället för att gripa i den. Det var den sortens detalj som kunde avslöja en människa. Innan veckan var slut skulle hon ha skavsår. Det fick duga. Det fanns inga andra skor.
 
-Lukten av mynta. Det var en av hennes ofarliga sanningar — de små, verkliga detaljerna hon delade med människor för att bygga förtroende utan att avslöja något av värde. *Jag älskar lukten av mynta.* Det var sant. Det var också betydelselöst. Och det var precis vad som gjorde det användbart.
+Dörren till byggnaden stod öppen. Inte olåst. Öppen. I Capitol hade hon inte sett en olåst dörr sedan hon var barn, om hon nu ens sett det då. Hon steg in.
 
-Hon hade lärt sig det tidigt, under utbildningen, eller kanske ännu tidigare — i de åren efter moderns död som hon inte tänkte på som år utan som ett hål i tiden, en lucka, ett språng från barn till något annat. Man gav folk en sanning. En liten, värdelös, varm sanning. Och de tog emot den och kände sig nära dig och slutade leta efter de sanningar du gömde.
+Korridoren var smal. Golv av sliten plast, väggar som en gång hade varit vita. Lysrör i taket. Två av fem fungerade. De andra tre flimrade eller var mörka.
 
-Transporten startade bakom henne. Motorn hostade, vibrerade, och fordonet backade i en vid cirkel innan det försvann tillbaka åt det håll de kommit. Amma vände sig inte om. En annan sak hon hade lärt sig — att aldrig titta tillbaka mot det som lämnade.
-
----
-
-Vägen till huvudbyggnaden var längre än den såg ut. Värmen förvrängde avståndet, fick den låga betongstrukturen att flimra och skifta som om den inte riktigt bestämt sig för att vara verklig. Amma räknade stegen. Etthundrafjorton. Etthundrafemton.
-
-Hennes stövlar var fel för underlaget. Stadsstövlar, gjorda för Capitols gator — släta sulor, för tjocka i materialet. Inom en vecka skulle hon ha skavsår. Det var den sortens detalj som avslöjade folk, om man visste vad man letade efter. Och någon här visste. Det fanns alltid någon.
-
-Hon tänkte på rapporten. Maja. Teknikern som hade dött vid modul 7-12 — elektriskt fel i kontrollpanelen, enligt den officiella versionen. Olycka. Rapporten var tunn som vatten, tre sidor av ingenting, standardformuleringar som någon hade klippt och klistrat från en mall. Amma hade sett tillräckligt med rapporter för att veta hur en riktig utredning såg ut, och det här var inte det. Det här var en rapport som någon hade skrivit för att den behövde existera, inte för att den behövde vara sann.
-
-Men det var inte hennes jobb att utreda Majas död. Det var hennes jobb att inspektera modulen, kontrollera produktionsavvikelsen, skriva sin egen rapport och försvinna. In, ut, tillbaka till Capitol. Officerens goda öga. En ny position. Långt härifrån. Långt från muren, långt från dammet, långt från allting som liknade det liv hon hade haft innan hon blev den hon var nu.
-
-Vem hon nu var.
-
-Amma Wost. Tekniker, tredje graden, Energidepartementets underhållsenhet, personnummer som slutade på 47, tilldelad Station 7-Syd för rutininspektion av modul 7-12 efter rapporterad produktionsavvikelse.
-
-Inget av det var sant. Inte på det sätt som saker brukade vara sanna. Numret var äkta — tilldelat, registrerat, verifierbart. Men det tillhörde en annan kvinna, eller snarare en kvinna som aldrig existerat. Amma Wost var ett skal. En serie dokument som passade ihop tillräckligt väl för att klara en kontroll vid en avlägsen station i öknen, men inte tillräckligt väl för att klara granskning i Capitol. Hon hade sex veckor. Sedan skulle sprickorna börja synas.
-
-Sex veckor var mer tid än hon behövde. Två skulle räcka. Kanske tre.
-
-Hon räknade stegen igen utan att märka det. Etthundratrettionio. Etthundrfyrtio.
-
----
-
-Ammas mor hade korsat muren en natt i regn. Det var det enda Amma visste säkert om sin egen historia — inte för att någon hade berättat det för henne, utan för att det var det enda hennes kropp kom ihåg. Inte orden. Inte ansiktet. Bara känslan av vatten mot hud och någons händer runt henne och det stumma, tysta mörkret som följer efter att man passerat en gräns som inte borde passeras.
-
-Hon hade varit spädbarn. Kanske ettåring. Kanske inte ens det. Det fanns inga register — inte på den sida de lämnade, och inte på den sida de kom till. De hade försvunnit in i Capitols utkanter som regnvatten i en dagbrunn, och hennes mor hade blivit en av de där kvinnorna som tog de jobb ingen annan ville ha, i de delar av staden som ingen erkände existerade.
-
-Amma tänkte inte på sin mor ofta. Det var inte en medveten strategi — det var bara så hjärnan fungerade. Minnesbilder utan kontext, utan kronologi, utan narrativ. Moderns händer som skalade en frukt. Moderns röst som sjöng något — inte en sång, mer ett ljud, en ton, som om rösten bara behövde vibrera för att bevisa att den fortfarande fanns. Lukten av något sött som kokade.
-
-Sedan ingenting.
-
-*Officiellt aldrig inträffat.* Tre ord som stod i en akt hon aldrig borde ha läst, i ett rum hon aldrig borde ha haft tillgång till, i en byggnad vars adress hon hade svurit att glömma. Tre ord som betydde: det här hände, och vi vet att det hände, och vi har bestämt att det inte hände. Modern dog. Amma levde. Mellanrummet var en svart ruta i en akt, en stängd dörr, en tystnad som hade formen av ett liv.
-
-Hon brukade undra om hon letade efter sanningen. Under utbildningen, under de första åren som agent, under de nätter hon låg vaken i tillfälliga lägenheter med tillfälliga namn och lyssnade på en tillfällig stads ljud genom väggen. Men hon hade slutat undra. Sanningen var inte något man hittade. Det var något man konstruerade av de bitar man hade tillgång till, och de bitar hon hade tillgång till var för få och för trasiga för att bygga något stabilt.
-
-Så hon räknade istället.
-
-Steg. Sekunder. Avstånd. Pulsslag när hon inte kunde sova. Andetag när axeln väckte henne. Dagar kvar på ett uppdrag. Dagar sedan hon senast ljög. Det sistnämnda var alltid noll.
-
----
-
-Byggnaden var lägre än hon förväntat sig. En våning, utbredd, med tak som reflekterade solen i en matt silverton. Väggarna var betong — gammal betong, med sprickor som berättade om temperaturväxlingar, frostsprängningar vintertid kanske, eller bara år av sol som hettade upp ytan tills den expanderade och krympte och expanderade igen. Byggnadskunskap var inte Ammas starka sida, men hon förstod materialutmattning. Hon förstod vad som hände med saker som utsattes för samma påfrestning dag efter dag.
-
-Dörren var öppen. Inte bara olåst — öppen. Amma stannade.
-
-I Capitol stängde man dörrar. Man låste dem. Man kontrollerade vem som passerade med kod, med kort, med biometriska avläsare vars precision varierade med priset på installationen. Här stod dörren öppen mot dammet och värmen och allt som kunde komma in. Flugor. Sand. Främlingar.
-
-Hon steg in.
-
-Innanför var luften svalare, inte kylig men svalare, och hennes kropp registrerade skillnaden som en lättnad hon vägrade erkänna. Korridoren var smal och lång, med golv av sliten plast och väggar i en färg som kanske en gång varit vit men nu var den sortens grå som uppstår när man slutat försöka. Lysrör i taket — två av fem fungerade. De resterande tre var mörka, eller flimrade i en oregelbunden rytm som hennes hjärna omedelbart började analysera. Fyra sekunder på, en och en halv sekund av, fyra sekunder på.
-
-Amma Wost, tekniker av tredje graden, skulle ha noterat de felaktiga lysrören i en rapport. Amma Lindqvist, den hon faktiskt var — eller den hon hade varit, eller den hon fortfarande var under alla lager av namn och nummer och förfalskade meriter — hade ingen åsikt om lysrör. Lysrör var inte farliga. Lysrör avslöjade inte folk.
-
-Hon gick vidare.
-
-Korridoren öppnade sig till ett rum som verkade tjäna som matsal, samlingsplats och kanske kontor — det var svårt att säga. Ett långt bord av trä, gammalt och slitet och blankt av hundratals armbågar, stod i mitten. Stolar som inte matchade. En hylla med böcker — riktiga böcker, papper, inte skärmar — och bredvid den en tavla med namn och scheman som någon hade skrivit för hand med en tuschpenna som började ta slut.
+Korridoren öppnade sig till ett rum med ett långt bord av trä, slitet blankt. Stolar som inte matchade. En hylla med böcker. En tavla med namn och scheman:
 
 *Karin — Förmiddag. Viktor — Eftermiddag. Samuel — Komm. Li — . Elias/Nora — Underhåll.*
 
-Li hade inget schema. Eller så hade schemat raderats. Eller så hade det aldrig skrivits.
+Inget schema för Li. Amma noterade det.
 
-Amma lade det på minnet.
+Vid fönstret längst bort stod en kvinna med korslagda armar och ryggen mot rummet. Hon vände sig inte om.
 
-Längst bort i rummet, vid ett fönster som vette mot söder och panelfälten, stod en kvinna med korslagda armar och tittade ut. Hon vände sig inte om när Amma kom in. Antingen hade hon inte hört henne, eller så hade hon hört henne och inte brytt sig om att vända sig om. Det senare, gissade Amma. Den här kvinnan verkade vara den sortens person som alltid visste vem som var i rummet.
+"Du är den nya teknikern," sa hon.
 
-"Du är den nya teknikern," sa kvinnan utan att vända sig om.
+"Amma Wost," sa Amma. "Energidepartementet."
 
-Inte en fråga.
+Kvinnan vände sig om. Femtioårsåldern, korthårig, grått som tagit över från något mörkare. Ansiktet var kantigt och djupt märkt av sol. Bomullsskjortan var knäppt halvvägs. Armarna i kors, inte som skydd utan som en viloposition.
 
-"Amma Wost," sa Amma. "Energidepartementet. Underhållsenheten."
+"Karin," sa hon. Rösten var hes, kort. "Jag sköter stället."
 
-Kvinnan vände sig om. Korthårig, grått som hade tagit över från något mörkare, ansikte format av ljus och vind och den sortens linjer som berättade om år utomhus. Bomullsskjorta som en gång varit vit, knäppt bara halvvägs i värmen. Armar i kors, inte som ett försvar utan som en viloposition, en kropp som var van att vänta.
+Amma nickade.
 
-"Karin," sa hon. "Jag sköter stället. Som en vaktmästare, ungefär."
+"Kom hit," sa Karin.
 
-Amma nickade. I hennes huvud sorterades informationen automatiskt: Karin, vaktmästare, den praktiska, den som mötte nykomlingar. Inte ledaren — det var Cassia. Men Karin var den första kontrollen. Grindvakten.
+Amma gick närmare. Karin tittade på henne. Det var inte diskret. Det var en öppen inventering: ansikte, axlar, armar, händer. Hon stannade vid händerna.
 
-"Kom in ur solen," sa Karin, fast de redan stod inomhus.
-
-Amma förstod. Det var inte en instruktion om solen. Det var en instruktion om vad Karin förväntade sig — att Amma skulle sluta stå i dörröppningen som en främling och kliva helt in, komma närmare, göra sig tillgänglig för inspektion.
-
-Hon klev närmare.
-
-Karin granskade henne. Inte snabbt och inte diskret — det var en öppen, oförskämd inventering. Ögonen gick från Ammas ansikte ner över axlarna, armarna, händerna, stannade vid händerna.
-
-"Du ser inte ut som en tekniker," sa Karin.
+"Du ser inte ut som en tekniker."
 
 "Jag får höra det ibland."
 
-"Händerna," sa Karin. "Slitna på fel sätt."
+"Händerna. Slitna på fel sätt."
 
-Amma sa ingenting. Det var en av de saker hon hade lärt sig — att tystnad ibland var det bästa svaret på en observation som var för träffsäker. Att svara var att erkänna. Att svara var att öppna en dörr.
+Amma sa ingenting. Tystnad var bättre än ett svar som öppnade för fler frågor. Karin tittade ut genom fönstret igen. Panelfälten sträckte sig söderut, rad efter rad.
 
-Karin vände blicken mot fönstret igen. "Var kommer du ifrån?"
+"Var kommer du ifrån?"
 
 "Capitol."
 
 "Innan dess."
 
-Amma kände den lilla stöten i bröstkorgen — inte rädsla, något svalare, mer kliniskt, som ett instrument som registrerade ett utslag. *Hon vet.* Eller: *hon gissar.* Eller: *hon testar.*
+Amma kände det i bröstkorgen. Inte rädsla. Något kallare, mer precist, som en nål som registrerade ett utslag.
 
-"Norrkusten," sa Amma. Det var lögnens standardversion. Norrkusten var tillräckligt långt bort för att ingen här skulle kunna verifiera det, och tillräckligt tråkigt för att ingen skulle vilja fråga mer.
+"Norrkusten," sa hon.
 
-Karin tittade på henne igen. Lång blick. Tystnad som vägde.
+Karin tittade på henne igen. Tyst länge. Hennes ögon sa ingenting.
 
-"Jag skulle kanske inte nämna att du kommer från fel sida muren," sa Karin. "Om det nu är så."
+"Jag skulle inte nämna att du kommer från fel sida muren," sa Karin. "Om det nu är så."
 
-Världen stannade.
+Amma andades.
 
-Inte bokstavligen. Lysröret fortsatte flimra. Damm dansade — nej, damm rörde sig, drev, i ljusstrålen från fönstret. Ammas hjärta slog. Men någonstans inuti henne, i det rum där hon förvarade sin kontroll, sina siffror, sina avstånd och intervaller, stannade allting.
+Karin gick mot dörren. Stannade i öppningen. "Middag klockan sex. Andra dörren till höger."
 
-Karin sa inget mer. Hon gick mot dörren, stannade, vände sig halvt.
-
-"Middag klockan sex. Andra dörren till höger."
-
-Sedan var hon borta.
+Hon försvann ut i korridoren.
 
 ---
 
-Amma stod kvar i rummet. Ensam med det flimrande lysröret och schemat på väggen och tystnaden efter Karins ord.
+Amma stod kvar i rummet. Lysrören flimrade. Damm rörde sig i ljuset från fönstret.
 
-*Fel sida muren.*
+Karin visste. Eller gissade. Eller testade. Skillnaden spelade inte så stor roll. Om en kvinna som hade träffat henne för trettio sekunder sedan kunde se det, kunde andra se det också.
 
-Tre ord. Varje ord harmlöst i sig. Tillsammans — en granat med utdragen sprint.
+Det syntes på henne. Det hade alltid synts. Huden, håret, händerna, det sätt hennes kropp var byggd. I Capitol gick det att försvinna i mängden, där folk kom från så många platser att ingen längre räknade. Här, på en solfarm i öknen med åtta anställda, fanns ingen mängd att försvinna i.
 
-Hon hade korsat muren som spädbarn. Hennes mor hade burit henne genom regn och mörker, genom en passage som inte längre existerade, till en sida som inte erkände att de kommit. Det stod ingenstans. Inget register, inget dokument, ingen myndighet visste — eller borde veta — att Amma Lindqvist inte var född i Capitol.
+Hon satte sig vid bordet. Drog handen över träytan. Den var varm, slät av armbågar och tid. Någon hade ristat in något i ena hörnet. Bokstäver, för små för att läsa utan att böja sig ner. Hon böjde sig inte ner.
 
-Men Karin visste. Eller misstänkte. Eller gissade rätt, vilket var samma sak om man var den som blev avslöjad.
+Moderns händer som skalade en frukt. Oranget skal. Mörka fingrar. Det kom utan förvarning, som det alltid gjorde. Inte ett minne med sammanhang eller kronologi. Bara en bild, skarp som en skärva, och sedan borta.
 
-Amma andades. In genom näsan, fyra sekunder. Håll, fyra sekunder. Ut genom munnen, fyra sekunder. Boxandning. Traumaterapeuten i Capitol — den hon hade gått till under ett falskt namn, naturligtvis, för man kunde inte vara agent och gå till en terapeut under sitt riktiga namn, inte för att hon hade ett riktigt namn längre — hade lärt henne det. *När din kropp reagerar snabbare än din hjärna, ge hjärnan tid att komma ikapp.*
+Amma visste tre saker om sin mor. Att hon hade korsat muren en natt i regn med Amma i famnen. Att hon hade tagit de jobb ingen annan ville ha i Capitols utkanter. Att hon hade dött i en händelse som registrerats som *officiellt aldrig inträffad*. Tre saker. Det var inte nog för att bygga en människa av. Det var nog för att sakna en.
 
-Men vad visste Karin? Att Amma inte var från norrkusten — det kunde man läsa på hennes kropp, i hennes hud som var mörkare än de flesta i Capitol, i hennes drag som berättade om en annan geografi. Eller visste hon mer? Hade hon tillgång till information som Ammas täckmantel inte var designad att motstå?
+Hon hade hittat de orden i en akt hon aldrig borde ha haft tillgång till. Tre ord som betydde att det hade hänt och att det inte hade hänt. Att någon hade bestämt att hennes mors liv inte var värt att registrera.
 
-Amma tvingade sig att tänka metodiskt. Karin var vaktmästare på en avlägsen solfarm. Hon hade inte tillgång till Energidepartementets personal-databas. Hon hade inte tillgång till de akter som beskrev Ammas verkliga identitet, för de akterna fanns i ett låst rum i en byggnad utan adress i Capitols innersta ring. Karin gissade. Hon gissade baserat på vad hon såg — huden, händerna, det sätt Amma bar sin kropp.
-
-Det var illa nog.
-
-Om Karin kunde se det kunde andra se det. Och om Amma inte hanterade det rätt — inte gav rätt svar, inte byggde rätt förtroende, inte blev den person som stationen behövde att hon var — skulle hennes sex veckor krympa till ingenting.
-
-Hon satte ner väskan på golvet bredvid det långa bordet. Öppnade den. Tog upp myntatvätten och höll den mot näsan. Andades in. Sött och skarpt och rent, och i den doften fanns ett ögonblick av ingenting — ingen station, inget uppdrag, ingen mur, inget falskt namn, bara lukten av mynta och det enkla faktum att hon andades.
-
-Sedan lade hon tillbaka den. Stängde väskan.
+Hon andades in genom näsan, höll fyra sekunder, andades ut. Det var en vana, inte en teknik. Det spelade ingen roll vad terapeuten hade kallat det.
 
 *Jag är Amma Wost. Jag är tekniker. Jag är här för att inspektera en modul.*
 
-Hon sa det inte högt. Det behövdes inte. Orden var en ritual, en återställning, en tyst kalibrering av den person hon behövde vara. Hon hade gjort det förut — i andra städer, under andra namn, inför andra uppdrag. Varje gång blev det lättare. Och varje gång skrämde den lättheten henne lite mer.
+Hon drog väskan mot sig och gick ut i korridoren för att hitta sitt rum.
 
 ---
 
-Rummet de hade gett henne var litet. Säng, bord, stol, ett fönster som vette mot norr och vidrördes av eftermiddagsskugga. Väggar av samma trötta betong som resten av byggnaden, men någon hade hängt en bit tyg — tunn, blågrön, nästan genomskinlig — över fönstret, och ljuset som silade igenom gav rummet en undervattenston som fick Amma att tänka på något hon inte kunde placera. En dröm, kanske. Eller ett minne som var för gammalt för att ha form.
+Rummet var litet. Säng, bord, stol. Ett fönster mot norr med en tunn bit blågrön textil över glaset. Ljuset genom tyget gav väggarna en sval ton som fick rummet att se ut som om det låg under vatten.
 
-Hon lade väskan på sängen. Satte sig. Madrassen var tunn och hård och under hennes vikt böjde sig sängbottnen med ett ljud som en suck.
+Hon satte sig på sängen. Madrassen var hård. Botten böjde sig under henne.
 
-Axeln värkde. Den värkde alltid i slutet av en resa — vibrationer från transport, den omedvetna spänningen i musklerna som höll kroppen i position under timmar av rörelse. Sektor 14 hade gett henne den skadan, i en explosion som hon mindes som ljus och ljud och sedan ingenting, och sedan ett sjukhus som inte var ett sjukhus utan ett fältsjukhus som inte var ett fältsjukhus utan ett rum med plastsängar och en läkare som sa *du har tur* medan hon låg där med en axel som var mer som en påse trasiga bitar än en kroppsdel.
+Axeln hade vaknat ordentligt nu. Det var resan, vibrationerna, musklernas omedvetna spänning under timmar av transport. Sektor 14 hade gett henne skadan. En explosion som hon mindes som ljus, ljud, ingenting. Sedan ett fältsjukhus med plastsängar och en läkare som sa att hon hade tur.
 
-Hon rörde vid axeln nu. Försiktigt, med högerhanden, fingrarna som letade sig in under skjortans tyg till den punkt där smärtan bodde — inte på ytan, utan djupare, i det lager av muskler och senor som aldrig läkt rätt. Det var en verklighet som inte gick att förfalska. Allt annat vid henne var konstruktion, täckmantel, lager på lager av lögnens arkitektur. Men smärtan var sann. Smärtan var hennes.
+Hon rörde vid punkten under skjortan där smärtan satt, djupare än huden, i det lager av senor och muskel som aldrig läkt ihop på rätt sätt. Det var kanske det enda hon ägde som inte gick att förfalska. Allt annat var konstruktion. Smärtan var hennes.
 
-Ibland undrade hon om det var därför hon inte lät den behandlas ordentligt. Det fanns kirurger i Capitol som kunde ha fixat den — inte billigt, inte snabbt, men möjligt. Officeren hade erbjudit det, en gång, i en mening som lät som generositet men som Amma förstod var en investering: en agent med en defekt axel var en agent med en begränsning, och begränsningar var dålig affär.
+Officeren hade erbjudit kirurgi. Hon hade sagt nej. Hon visste inte varför.
 
-Hon hade tackat nej. Sagt att det inte var så illa. Det var inte sant.
+Genom fönstret såg hon panelfälten. Rad efter rad söderut. Någonstans där ute stod modul 7-12. Någonstans där ute hade Maja arbetat med något som dödade henne. Eller som någon hade använt för att döda henne.
 
-Kanske behövde hon smärtan. Kanske var den det sista som var äkta — den sista tråden mellan den hon var och den hon hade varit, innan namnen och numren och lögnerna. Smärtan kom från Sektor 14, och Sektor 14 var verkligt, och explosionen var verklig, och hennes kropp som slagit i marken var verklig, och rädslan — den totala, ordlösa rädslan i det ögonblick då allting var ljus och sedan mörker — var den mest verkliga sak hon ägde.
+Det var inte Ammas jobb att utreda det. Hennes jobb var att inspektera modulen, dokumentera avvikelsen, skriva en rapport och försvinna. Två veckor, kanske tre. Sedan tillbaka till Capitol, till officerens goda öga, till en ny position långt härifrån.
 
-Hon släppte axeln. Torkade handen mot byxorna, som om smärtan var något som satt kvar på fingrarna.
+Det var alltid tanken. In, ut, tillbaka. Det var aldrig så det gick.
 
-Genom fönstret kunde hon se panelfälten sträcka sig söderut. Rad efter rad efter rad, mörka rektanglar mot den ljusa jorden, vinklade mot en sol som stod lägre nu men fortfarande brände. Någonstans där ute var modul 7-12. Någonstans där ute hade en kvinna som hette Maja arbetat timme efter timme med något som till slut dödade henne.
+Hon lade sig ner. Taket hade en spricka som löpte diagonalt, torr som en flodbädd. Hon följde den med ögonen. Kroppen ville inte vila. Kroppen var fortfarande i beredskap, fortfarande i transport, fortfarande i det läge den intog när hon var i en ny miljö bland nya människor som alla var möjliga hot.
 
-Eller som någon använde för att döda henne.
+Hon blundade. Bakom ögonlocken var allt rött. Solljuset genom huden.
 
-Amma avfärdade tanken. Hon var inte här för att spekulera. Hon var här för att mäta, dokumentera, rapportera. In, ut, tillbaka.
+*Klockan sex.*
 
-Men hon visste — i den del av henne som inte räknade steg, som inte kalibrerade identiteter, som inte byggde täckmantlar av ofarliga sanningar — att det aldrig var så enkelt. Det var aldrig *in, ut, tillbaka.* Det var alltid mer. Det var alltid skevare, mörkare, mer komplicerat än rapporten, och hon var alltid den som stod mitt i det och försökte hålla sig hel.
+---
 
-Hon lade sig ner på sängen. Taket hade en spricka som löpte diagonalt från hörnet mot mitten, som en flodbädd utan vatten, och hon följde den med blicken medan hon försökte vila. Men kroppen vägrade. Kroppen var fortfarande i transit — fortfarande i beredskap, fortfarande i det tillstånd av kontrollerad vakenhet som var hennes normala. Att sova var att släppa kontrollen. Att släppa kontrollen var att — vad? Dö? Avslöjas? Bli den hon var?
+Matsalen var samma rum hon hade stått i en timme tidigare. Bordet var dukat. Enkla tallrikar, glas, bestick som inte matchade. Lukten av kokt grönsak och bröd och stekt lök. Det var den sortens mat som lagades av det som fanns, utan recept, utan ambition att imponera. Amma kände igen den. Det var mat från utkanten.
 
-Kanske var det samma sak.
+Karin stod vid spisen med ryggen mot rummet. En man med vita mustascher och darrande händer satt redan vid bordet. Bredvid honom satt en annan man, ljust hår för långt och smutsigt, mörka ringar under ögonen, ett blekt ärr från halsen ner under skjortans krage. Två andra satt mitt emot varandra, en man och en kvinna så lika att det tog ett ögonblick att se skillnaderna. Tvillingarna, gissade Amma. Elias och Nora. Längst bort satt en kvinna med mörka drag och håret i en stram knut. Hon tittade inte upp.
 
-*Klockan sex*, hade Karin sagt. *Middag.*
+Karin pekade på en stol utan att vända sig om. "Sitt."
 
-Amma blundade. Bakom ögonlocken var världen röd — solljuset genom huden, blodet i kärlen, den eviga inre glöden som betydde att hon levde. Hon räknade sina andetag. Ett. Två. Tre. Fyra.
+Amma satte sig.
 
-Hon tänkte på sin mor. Inte medvetet — det var inte något hon valde. Det var något som hände, en bild som dök upp ur ingenstans och lika snabbt sjönk tillbaka: händer som skalade en frukt. Oranget skal mot mörka fingrar. Ljus från ett fönster som inte existerade längre.
+Den äldre mannen med mustascherna lutade sig framåt. "Så du är teknikern." Han studerade henne öppet. "Viktor. Jag byggde hälften av det du ska inspektera."
 
-Sedan ingenting.
+"Amma."
 
-Amma öppnade ögonen. Sprickan i taket var fortfarande där. Panelfälten utanför fönstret var fortfarande där. Värmen var fortfarande tung och stilla och allestädes närvarande. Ingenting hade förändrats. Ingenting förändrades. Det var bara hon som låg här, i ett rum som inte var hennes, på en station som inte visste vem hon var, med en axel som värkde och ett uppdrag som borde vara enkelt och en känsla — djupt begravd, under siffrorna och stegen och andetagen — att ingenting var enkelt, att ingenting var vad det verkade, att hon redan hade tagit det första steget in i något hon inte kunde räkna sig ut ur.
+"Du ser ung ut."
 
-Hon satte sig upp. Slätade till skjortan. Kontrollerade sitt ansikte i den lilla spegeln ovanför bordet — ett ansikte som var bekant men aldrig riktigt hennes. Kort svart hår, lite för kort, alltid lite för kort, för hon klippte det själv och aldrig hade tålamod att göra det ordentligt. Hud mörkare än de flesta hon arbetade med, men inte så mörk att den omedelbart väckte frågor — åtminstone inte i Capitol, där folk kom från tillräckligt många platser för att färg inte längre var ett pålitligt tecken. Ögon bruna i det ljus som silade genom det blågröna tyget, nästan svarta om hon vinklade huvudet.
+"Jag är trettiofem."
 
-*Du ser inte ut som en tekniker.*
+"Vad?" Viktor höll handen bakom örat.
 
-Karin hade rätt. Det var problemet med den här täckmanteln — den passade som en kostym i fel storlek. Händerna berättade en historia som inte matchade den officiella versionen. Kroppen rörde sig med en vaksamhet som teknikerarbete inte krävde. Ögonen letade efter utgångar innan de letade efter kontakter.
+"Trettiofem."
 
-Men hon var här nu. Täckmanteln var sydd och dörren var öppen och klockan var — hon tittade mot fönstret, bedömde solens position — kanske fyra. Två timmar till middag. Två timmar att utforska, orientera sig, bygga en mental karta av stationen som hon kunde bära med sig som en plan B, en plan C, en väg ut om allt gick åt helvete.
+"Trettio?"
 
-Plan A var alltid uppdraget. Inspektera modulen, dokumentera avvikelsen, rapportera.
+"Fem. Trettiofem."
 
-Plan B var Cassia. Stationsföreståndaren hade bett — genom officeren, genom kanaler som Amma inte förstod och inte försökte förstå — att Amma skulle rapportera till henne om hon hittade "något konstigt." Det var ett vagt uppdrag inom uppdraget, en rysk docka av instruktioner, och Amma gillade det inte. Vaga uppdrag hade vassa kanter.
+"Jaha." Han lutade sig tillbaka. "Jag var tjugo när jag kom hit. Bara sand och vind och getter. Inte en panel i sikte." Han sträckte sig efter brödet. Händerna skakade. "Med dessa händer."
 
-Plan C var att gå. Lämna. Försvinna in i öknen och sedan vidare — till en annan station, en annan stad, ett annat namn. Det var alltid plan C. Det hade alltid varit plan C, på varje uppdrag, i varje identitet, en nödutgång som hon bar med sig som andra människor bar nycklar.
+Mannen med ärret tittade på Amma. Han hade ett snett leende som inte nådde ögonen. "Samuel," sa han. "Kommunikation. Jag sköter det du inte bör röra."
 
-Hon hade aldrig använt plan C. Det betydde inte att den inte var verklig.
+Det lät som ett skämt. Det lät också som en varning.
 
-Amma reste sig. Gick till fönstret. Tittade ut mot panelfälten och den låga solen och det oändliga, tomma landskapet som sträckte sig bortom farmens gräns.
+"Bra att veta," sa Amma.
 
-Någonstans långt bort — hundratals kilometer, kanske tusen — låg muren. Den syntes inte härifrån, och den borde inte synas, och ändå kände Amma den som en tyngd i riktning nordost. Som gravitationen från en planet som inte fanns på kartan men som ändå drog i allting. Hon hade korsat den som spädbarn, insvept i sin mors armar, och ibland tänkte hon att hon aldrig riktigt hade lämnat den. Att en del av henne fortfarande stod vid muren, fortfarande väntade, fortfarande lyssnade efter det ljud som hade betytt att det var dags att springa.
+"Hur länge ska du vara här?"
 
-Men det var sentimentalt. Och Amma var inte sentimental. Amma var siffror och steg och avstånd och intervaller. Amma var en tekniker av tredje graden som hade kommit för att inspektera en modul. Amma var Wost, inte Lindqvist. Amma var den hon behövde vara.
+"Två veckor. Kanske tre."
 
-Hon gick ut ur rummet och in i korridoren och mot middagen och de människor som väntade där, och hon räknade stegen hela vägen.
+"Man skulle tro att en rutininspektion tar tre dagar," sa Samuel. "Fem, om man är grundlig."
+
+Amma tog ett stycke bröd från korgen. Det var mörkt, kompakt, tungt i handen. "Modulen är stor."
+
+"Modulen är modulen," sa Samuel. "Samma som alla andra. Fyra kontrollpaneler, en omformare, sjuttiotvå enheter. Tar tre dagar."
+
+"Jag tar den tid jag behöver."
+
+Samuel tittade på henne. Det sneda leendet igen. "Visst."
+
+Tvillingarna åt utan att prata. De satt nära varandra, axlarna nästan i kontakt. Mannen hade det smalare ansiktet, kvinnan det mörkare håret. De bar varsin liten knapp under kragen. Amma hade sett sådana förut. Assistentknappar. Kommunikationsenheter, eller övervakningsenheter, beroende på vem man frågade.
+
+Karin bar ingen. Det hade Amma noterat redan.
+
+Kvinnan längst bort rörde sig inte. Åt långsamt, metodiskt, med blicken på tallriken. Li. Hon hade inget schema på tavlan. Hon sa inget. De andra tycktes vara vana vid hennes tystnad. Ingen försökte dra in henne i samtalet. Det var som om hon inte fanns i rummet alls. Amma kände igen det också. Det var en teknik. Eller en överlevnadsstrategi.
+
+Viktor hade börjat berätta om farmen. Hur den såg ut när han kom. Hur de hade grävt fundamenten för hand. Hur första panelerna hade installerats under en sandstorm som hade begravt halva anläggningen.
+
+"Tretton procent av frontens energi," sa han och höjde glaset. Glaset skakade i hans hand. "Från den här sanden."
+
+"Åtta," sa Samuel.
+
+Viktor tittade på honom. "Vad?"
+
+"Åtta procent. Det var tretton innan omstruktureringen."
+
+Viktor ställde ner glaset. "Det var tretton."
+
+"Det var," sa Samuel.
+
+Amma åt. Maten smakade som den såg ut. Ärlig. Oinspirerad. Det påminde henne om de år i Capitols utkant som hon inte tänkte på som år. Maten som hennes mor lagade av det som fanns. Det som kunde kokas eller stekas tills det gick att äta. Utan kryddor, utan grönsaker som inte kunde odlas i en burk vid fönstret.
+
+Hon tvingade bort tanken. Det var inte användbart. Det var inte säkert.
+
+Dörren öppnades.
+
+Cassia kom in som om hon alltid hade varit i rummet och bara gått ut en sekund. Långt lockigt hår som grånade vid tinningarna, uppsatt i en lös knut. Samma slags arbetskläder som alla andra, men de satt annorlunda på henne. Viktor satte sig rakare. Karin, vid spisen, tittade upp. Li lyfte blicken ett ögonblick och tittade sedan ner igen.
+
+"Amma," sa Cassia och log. Inte det sociala leendet som folk använde för att signalera välvilja. Något öppnare, mer direkt. Det var svårt att inte svara på det. Amma svarade inte.
+
+"Cassia," sa Amma. "Stationsföreståndare."
+
+"Det låter så formellt." Cassia satte sig mitt emot henne, tog upp en tallrik, serverade sig utan att bryta ögonkontakten. "Hur var resan?"
+
+"Lång."
+
+"Det är den alltid. Vill du ha vatten? Karin, ge henne vatten."
+
+Karin ställde ett glas framför Amma utan att säga något.
+
+"Jag hoppas Karin inte skrämde dig," sa Cassia.
+
+"Nej."
+
+"Hon skrämmer alla. Det är hennes jobb." Cassia tog en tugga bröd. "Berätta om Capitol. Jag har inte varit där på tre år."
+
+"Inte mycket att berätta," sa Amma.
+
+"Det tror jag inte på."
+
+Amma drack av vattnet. Det var ljummet, med en svag mineralsmak. Hon tänkte på vad Cassia ville. Officeren hade sagt: *Hon kommer att vilja att du rapporterar till henne. Låt henne tro att du gör det. Rapportera till mig.* Och Cassia hade sagt, genom officeren: *Om hon hittar något konstigt, ska hon komma till mig.* Två instruktioner som drog åt olika håll. Amma satt mitt emellan, vid ett slitet bord i en matsal i öknen, och åt bröd.
+
+Det var alltid så. Två sidor. Alltid mitt emellan.
+
+"Capitol är Capitol," sa hon till slut. "Bygger, river, bygger nytt. Man slutar hålla reda på vad som är nytt."
+
+Cassia nickade som om Amma hade sagt något djupare. "Här bygger vi inte nytt. Vi reparerar."
+
+"Och producerar tretton procent av frontens energi," sa Viktor.
+
+"Åtta," sa Samuel.
+
+"Fler potatisar?" sa Karin från spisen, och samtalet dog.
+
+---
+
+Efter middagen visade Cassia henne modulernas karta. De stod i korridoren utanför matsalen, och Cassia drog fingret över en laminerad planritning som var fäst på väggen med tejp som gulnat.
+
+"Modul 7-12 ligger här." Fingret stannade vid den bortre kanten av fältet. "Tjugo minuters gång. Trettio i värmen, och det är alltid varmt."
+
+"Vad var avvikelsen?" frågade Amma.
+
+"Produktionen sjönk fjorton procent över sex veckor. Inga fel i diagnostiken. Maja kollade själv, tre gånger."
+
+"Innan olyckan."
+
+"Innan olyckan." Cassia tog bort handen från kartan. "Det var inget elektriskt fel."
+
+Amma sa ingenting. Det stod i rapporten att det var ett elektriskt fel.
+
+"Rapporten skrevs av någon i Capitol som aldrig har sett en kontrollpanel," sa Cassia. Hennes röst var fortfarande varm, fortfarande avväpnande, men under det fanns något hårdare. "Maja visste vad hon gjorde. Hon hade arbetat med panelerna i sju år."
+
+"Jag ska titta på modulen i morgon," sa Amma.
+
+"Bra." Cassia tittade på henne. Ljusa ögon som tog in allt. "Om du hittar något konstigt, kom till mig."
+
+"Jag rapporterar till departementet."
+
+"Naturligtvis. Men kom till mig först."
+
+Det var inte en fråga.
+
+Amma gick tillbaka mot sitt rum. Korridoren var tyst. Lysrören flimrade. Hennes stövlar var för höga för underlaget, och hon kände varje steg i hälarna.
+
+Hon tänkte på Cassia. På det sätt hon hade kommit in i rummet och förändrat det. På det sätt alla hade reagerat. Viktor som satte sig rakare. Karin som tittade upp. Li som för ett ögonblick lyfte blicken.
+
+Hon tänkte på Karin. *Fel sida muren.*
+
+Hon tänkte på rapporten. Tre sidor av ingenting.
+
+Hon tänkte på sin mor. Händer som skalade en frukt. Sedan ingenting.
+
+I rummet satte hon sig på sängen och tog av sig stövlarna. Sanden som hade samlats i dem rann ut på golvet. Små korn, ljusa mot den mörka plasten. Amma såg på dem en stund.
+
+Sedan öppnade hon väskan och tog upp det hon behövde för nästa dag. Mätinstrument. Anteckningsbok. Rapporten med dess tre tomma sidor. Myntatvätten som hon höll mot näsan och andades in, bara ett andetag, innan hon lade tillbaka den.
+
+Hon hade sex veckor. Mer tid än hon behövde. Två, kanske tre.
+
+Hon stängde väskan. Lade sig ner. Taket hade en diagonal spricka. Hon följde den med ögonen.
+
+Axeln värkte.
+
+Hon blundade.
