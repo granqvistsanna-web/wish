@@ -67,6 +67,11 @@ Three independent reviewers check the draft:
 6. **No forbidden words** — see `bible/forbidden-words.md`.
 7. **Embrace discomfort.** Butler never shied from difficult truths about power and desire.
 
+## Output Rules
+
+- **Always write drafts and revisions in the chat** so the user can read them directly. Do not only save to files — the text must appear in the conversation.
+- After presenting in chat, also save to the appropriate file in `story/drafts/` or `story/chapters/`.
+
 ## Commands
 
 - **Plan a chapter**: "Plan chapter N" → runs the Planner agent
