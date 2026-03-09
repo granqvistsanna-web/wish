@@ -44,4 +44,7 @@
 - Ärret: blekt streck från hals ner över axel. Gammalt.
 - Svårt att sitta stilla — rastlös energi
 - Hänger sin skjorta på kroken i modulen — omedveten gest eller?
-- Assistentknapp: oklart om han bär en
+- Assistentknapp: Bär en vid kragen. Använder den för rutinrapporter. Rösten förändras när han pratar i den — kortare, professionellare.
+
+## Introduktion
+- Introduceras i kapitel 2. Dyker upp vid modul 7-12 medan Amma ska inspektera. Pratar fritt om Maja, Nordkusten, Capitol. Visar längtan att lämna farmen. Observant bakom pratigheten — märker att Amma "försvinner" ett ögonblick vid knappen.

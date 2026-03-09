@@ -40,4 +40,4 @@
 - **Slutar som**: ?
 
 ## Notering
-Tal introduceras i kapitel 2. Han följer efter Amma ut på fältet, och det känns som att han vill övervaka. Amma retar sig på honom. När de kommer tillbaka får han en tillrättavisning av Cassia för att han frångått sina arbetsuppgifter.
+Tals introduktion skjuts fram till ett senare kapitel (kapitel 2-scenen vid modulen gavs till Samuel istället).

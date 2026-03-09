@@ -31,7 +31,7 @@
 
 ## Relationer
 - **Relation till Cassia**: Misstänksam men dragen till henne. Cassia behandlar henne som en jämlike, vilket är farligt.
-- **Relation till Samuel**: Irriterad men träffad av hans observationer. Han ser igenom henne.
+- **Relation till Samuel**: Inte irriterad — snarare orolig. Han pratar mycket och observerar skarpt bakom lättheten. Delar en känsla av att vilja bort. Hon har gett honom en liten sanning (farligt). Han sitter på kommunikationssystemet och kan se hennes digitala spår.
 - **Relation till Karin**: Respekt. Karin vet att Amma är "från fel sida" men skyddar den informationen.
 - **Relation till Viktor**: Vänlig distans. Han skryter, hon låter honom.
 - **Relation till Tal**: Irriterad. Han verkar vilja övervaka henne.
