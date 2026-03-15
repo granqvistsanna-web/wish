@@ -8,27 +8,32 @@ Late 22nd century. Approximately 150 years after the Partition — the political
 ### Location(s)
 
 **Station 7-Syd (Primary)**
-An isolated bioelectric energy farm on the southern frontier, roughly 40 kilometers from the border wall. Flat, sun-scorched terrain — former agricultural land turned arid by climate shift. Red-brown earth, scrub vegetation, relentless heat during the day, sharp cold at night. The station consists of:
-- **The Grid**: Twelve modules (7-01 through 7-12) arranged in a rough arc across 3 square kilometers. Each module is a squat concrete housing unit covering a biological substrate pit. Cables run between them like exposed veins.
+An isolated solar energy farm on the southern frontier, roughly 40 kilometers from the border wall. Flat, sun-scorched terrain — former agricultural land turned arid by climate shift. Red-brown earth, scrub vegetation, relentless heat during the day, sharp cold at night. The station consists of:
+- **The Solar Field**: Hundreds of panel arrays spread across 3 square kilometers. Inverters, converters, battery banks, and the grid routing system that channels energy toward the Wall's defense installations. Dust storms degrade output. Maintenance is constant.
+- **The Inverter Building**: Central hub where solar output is converted and routed. Houses the main control room, cable runs, and — beneath the floor — a sealed service corridor that predates the farm. This is where the dead engineer was found.
 - **The Compound**: Living quarters, mess hall, communications shed, greenhouse, tool storage. Built for 20; houses 10. Concrete walls, metal roofing, dust in every seam.
 - **The Greenhouse**: Viktor's domain — grows staples (potatoes, greens, herbs) and hides his still behind the back wall.
-- **Module 7-12**: The outermost module, closest to the wall. Where Maja died. Where something is different.
+- **The Underground**: Beneath the solar farm lies infrastructure far older than the panels — concrete corridors, access shafts, and heavy transmission lines from a buried military installation dating to the early decades of the war. This is Tenessa. Most workers have no idea it exists.
 
 **The Border Wall (Secondary)**
 Visible from the station on clear days — a dark line on the southern horizon. Three meters of reinforced composite topped with sensor arrays. Not impenetrable (Amma's mother crossed it), but deadly. Automated turrets. Motion detection. The Capitol calls it "the Perimeter." People on the other side call it "the Teeth."
+
+Beneath the Wall, deep in the bedrock, runs the Tenessa corridor — a conductive channel designed to deliver a pulse that would collapse large sections of the Wall and its surveillance grid simultaneously. Not a tunnel for soldiers. A tunnel for a weapon.
 
 **The Capitol (Referenced, Never Visited)**
 Urban, northern, controlled. Clean energy, surveillance infrastructure, curated information. Amma trained there. Everything is monitored; everything is optimized. Citizens wear assistant buttons voluntarily — they believe it connects them.
 
 ### Technology Level
 
-**Bioelectric Harvesting**: The core technology. Engineered organisms — called "foundations" — are cultivated in substrate pits beneath each module. They convert solar radiation and soil nutrients into storable electrical energy through a biological process analogous to photosynthesis but far more efficient. The organisms are alive, maintained, and harvested like crops. Most workers understand them as biological machines. They are more than that.
+**Solar Energy Infrastructure**: The farm's visible purpose. Panel arrays convert sunlight into electricity that powers the Wall's defense systems and military installations along the border. The technology is well understood, reliable, and unglamorous. Workers maintain it through physical labor — cleaning panels, replacing converters, tracing cable faults, calibrating sensors. The work is hot, repetitive, and essential.
+
+**The Grid Routing System**: Software that distributes the farm's energy output to designated endpoints. The system includes a hidden second accounting layer that diverts a fraction of production to an unlisted node — the underground Tenessa network. The diversion is small enough to pass as measurement noise during the day. At night, when production drops, the theft becomes proportionally larger.
 
 **Assistant Buttons**: Wearable communication and tracking devices. Small disc worn on the collar or chest. Provides voice communication, health monitoring, location tracking, and schedule management. The Capitol markets them as personal assistants. They are also surveillance nodes. Every conversation within range is logged. Karin refuses hers.
 
 **Communication Networks**: Managed through relay stations. Samuel operates the farm's communication hub — monitoring incoming/outgoing signals, maintaining equipment. All long-range communication routes through Capitol servers. There is no unmonitored channel. Or so the Capitol believes.
 
-**Weapons/Military**: The border war uses conventional kinetic weapons augmented by bioelectric-powered shields and targeting systems. The farms' energy output directly powers military installations along the wall. Workers know this abstractly but don't see the weapons.
+**Deep Drilling Equipment (Tenessa)**: Industrial boring machines powered by diverted solar energy, operating beneath the Wall. The equipment cuts through bedrock to create a conductive channel. The energy demand follows a strict ramping sequence — the profile of machinery slowly increasing its operational capacity over weeks and months. The drilling is nearing completion when Amma arrives.
 
 **Medicine**: Advanced but unevenly distributed. Capitol citizens have access to regenerative treatments. Frontier workers get field kits and painkillers. Amma's damaged shoulder could be repaired in the Capitol. Out here, she manages it.
 
@@ -42,29 +47,37 @@ Two-tier system divided by the wall:
 
 **Frontier Workers**: Neither fully Capitol nor Freehold. They live in a liminal zone — technically Capitol employees, practically abandoned. Resupply comes quarterly. Communication is monitored but response times are days. They govern themselves through informal hierarchy (Cassia's authority is social, not legal).
 
-## Biology & Science
+## The Tenessa Conspiracy
 
-### Key Scientific/Biological Concept
+### What Tenessa Is
 
-**The Foundations**: Bioengineered organisms designed 80 years post-Partition by a team of biologists led by a scientist known by the project codename "Sol" (Tal's father). Thirteen unique strains were created, each optimized for different environmental conditions. They are colonial organisms — neither plant nor animal — that form vast mycelium-like networks in substrate pits. They pulse. They grow. They respond to stimuli.
+**TENESSA** — Tactical Energy Network for Subterranean Strategic Access. Originally a wartime engineering project from the early decades after Partition. The underground network was designed to bore beneath the Wall and deliver a devastating energy pulse that would collapse the border infrastructure. The project was officially abandoned and sealed decades ago.
 
-Twelve foundations are documented, catalogued, and regulated. Their genetic templates are held in Capitol vaults. They are treated as property — biological machines that generate power.
+A faction within the Capitol's own military has quietly restarted it. They believe the century-old stalemate is killing both sides through slow decay and that decisive action — collapsing the Wall and restarting open conflict — is preferable to permanent stagnation. They are not traitors in the conventional sense. They are hawks who have lost patience with diplomacy that has produced nothing in a hundred years.
 
-**The Thirteenth Foundation** was ordered destroyed by Capitol command 30 years ago. It was deemed unstable — it adapted too quickly, grew beyond its substrate pit, and exhibited behaviors that suggested rudimentary coordination. Not intelligence, exactly. But something adjacent. Something that made the oversight committee uncomfortable. Sol refused to destroy it. Sol died shortly after. The official record says equipment failure.
+The solar farm is the cleanest place to hide the power source. The energy diversion is managed through a hidden software layer in the grid routing system and overseen by the farm's operations director — a quiet administrator who has spent twenty years at the facility.
 
-Cassia has been protecting the Thirteenth Foundation beneath Module 7-12 for three years. It has continued to adapt. It responds to proximity. It responds to *specific* people. Maja discovered this. Maja is dead.
+### How It Works
 
-### How It Affects Daily Life
+Energy production and reported output do not match. The farm generates slightly more electricity than the system logs say it delivers. The difference is small enough to pass as measurement noise. Every night, a fraction of the farm's output disappears underground through cables that run beneath the inverter building into the old Tenessa corridors.
 
-Workers tend the foundations like farmers tend livestock — feeding substrate, monitoring output, repairing housing units. The organisms hum at frequencies you feel in your chest. Long-term workers develop a physical attunement — they can sense when a module is underperforming before instruments register the change. Viktor calls this "listening to the ground." The Capitol calls it superstition.
+The power follows a strict ramping sequence. The drilling equipment beneath the Wall operates on a schedule, increasing its operational capacity gradually. The conductive channel is being cut through bedrock toward the Wall's foundations.
 
-The foundations' biological nature means the work is intimate. You put your hands in the substrate. You breathe the spore-laden air. You feel them pulse against your palms when you check the growth medium. The line between tool and living thing blurs after enough seasons.
+### How It Was Discovered
 
-### How It Affects the Romance
+The dead engineer — Maja — traced the energy discrepancy while troubleshooting irregular voltage drops. She found the hidden junction, the ghost node in the routing system labeled TENESSA in a raw configuration file, and the maintenance shaft beneath the inverter building. She discovered new cables installed inside old tunnels.
 
-Amma and Cassia's relationship develops in the shadow of the Thirteenth Foundation. Cassia's deepest secret — the thing she'll do anything to protect — is also the thing that draws Amma closer and puts her in danger. The foundation responds to emotional states (stress hormones, oxytocin, cortisol). Moments of genuine connection near Module 7-12 produce visible responses in the organism — a pulse, a brightening, a reaching. The foundation becomes a mirror for what Amma and Cassia cannot say to each other.
+She reported the discovery to the wrong person. Within hours her death was staged as an electrical accident. The logs were edited. The diversion continued.
 
-Intimacy is surveillance. The foundation records presence, emotional tenor, proximity. To love near it is to be witnessed by something not quite alive and not quite not.
+### Amma's Mother and Tenessa
+
+Amma's mother worked on Tenessa from the other side of the Wall. Not as a soldier — as an engineer involved in the original construction of the underground network. She defected and crossed the border with her infant daughter.
+
+She never told Amma the truth because anyone connected to Tenessa would be considered an enemy asset. Amma's identity inside the Capitol system is built on forged records created after the crossing.
+
+Her mother kept a small notebook — ordinary observations about weather, plants, sketches of landscapes from beyond the Wall. Between those pages: scattered references to the word TENESSA, drawings of old tunnels, fragments of coordinates. She also owned a small metal pendant engraved with the word. Amma used to trace the letters as a child.
+
+The notebook does not read like technical documentation. The drawings are incomplete, certain tunnels intentionally missing. Her mother was not preserving the system. She was mapping its weaknesses. The pendant was not a relic. It was a reminder of something she believed should never be used again.
 
 ## Power Structures
 
@@ -72,13 +85,15 @@ Intimacy is surveillance. The foundation records presence, emotional tenor, prox
 
 **The Capitol Council**: Civilian government that controls information, resources, and the narrative about the border war. They need the farms' energy output to maintain military operations and domestic infrastructure.
 
-**The Inspection Bureau**: Amma's employer. An intelligence arm of the Capitol that monitors frontier installations for "efficiency and compliance." In practice, they ensure no station goes rogue and no secrets escape the frontier. Amma is one of dozens of embedded inspectors across the southern stations.
+**The Military Faction (Tenessa)**: A covert group within the Capitol's own military apparatus. They operate without civilian authorization. Their goal is to restart the war. The operations director of Station 7-Syd answers to this faction, not to the civilian chain of command.
 
-**Station Forewomen/men**: Local authority figures with no official rank. Their power comes from competence, knowledge, and the simple fact that the Capitol is far away. Cassia's authority is absolute on Station 7-Syd — not because anyone appointed her, but because everyone trusts her. This makes the Bureau nervous.
+**The Inspection Bureau**: Amma's employer. An intelligence arm of the Capitol that monitors frontier installations for "efficiency and compliance." They have no knowledge of Tenessa. They sent Amma to investigate output irregularities and a suspicious death — routine work. They do not know what she will find.
+
+**Station Forewomen/men**: Local authority figures with no official rank. Their power comes from competence, knowledge, and the simple fact that the Capitol is far away. Cassia's authority is absolute on Station 7-Syd — not because anyone appointed her, but because everyone trusts her.
 
 ### How Power Is Maintained
 
-**Information control**: The Capitol curates what citizens know about the war, the Freehold, and the foundations. Most people believe the foundations are simple bioelectric generators. The truth about their biological complexity — especially the Thirteenth — is classified.
+**Information control**: The Capitol curates what citizens know about the war, the Freehold, and the border infrastructure. The Tenessa faction relies on a deeper layer of secrecy — classified even within the military.
 
 **Surveillance**: Assistant buttons, communication monitoring, embedded inspectors. The Capitol watches. Not everything, not always — but enough to maintain the fear that they might be watching *right now*.
 
@@ -86,27 +101,29 @@ Intimacy is surveillance. The foundation records presence, emotional tenor, prox
 
 ### How Power Is Resisted
 
-**Cassia's quiet rebellion**: She runs 7-Syd as a community, not an outpost. She protects her people from Bureau scrutiny. She hides the Thirteenth Foundation. She shares information the Capitol would restrict. She does this without speeches or ideology — just daily choices that prioritize human lives over institutional loyalty.
+**Cassia's quiet governance**: She runs 7-Syd as a community, not an outpost. She protects her people from Bureau scrutiny. She does this without speeches or ideology — just daily choices that prioritize human lives over institutional loyalty.
 
 **Karin's refusal**: She won't wear the button. A small act, but everyone notices. She doesn't explain. She doesn't have to.
 
 **Samuel's archive**: He monitors communications, yes. But he also records them. He has years of data showing discrepancies between what the Capitol reports and what actually happens on the frontier. He hasn't done anything with it. Yet.
 
+**Amma's mother's notebook**: A dead woman's map of a weapon's weaknesses. The ultimate act of resistance — not destroying the weapon, but ensuring someone could.
+
 ## Rules of This World
 
-1. **The foundations are alive.** They are not machines. Treating them as machines has consequences.
-2. **The wall is real but not absolute.** People cross. Information crosses. The division is maintained by belief as much as by concrete.
-3. **Surveillance is pervasive but imperfect.** The Capitol sees much but understands little. Distance degrades control.
-4. **Bodies remember what minds forget.** Long-term exposure to the foundations changes people — attunement, sensitivity, dreams. This is not documented by the Capitol.
+1. **The wall is real but not absolute.** People cross. Information crosses. The division is maintained by belief as much as by concrete.
+2. **Surveillance is pervasive but imperfect.** The Capitol sees much but understands little. Distance degrades control.
+3. **Every system has a shadow.** Beneath the visible infrastructure runs something hidden — cables under floors, tunnels under farms, lies under identities.
+4. **The people who maintain systems are the ones who understand them.** Workers know things engineers never will. Maintenance reveals truth.
 5. **Power is never stable.** Every hierarchy in this world is being quietly undermined by someone within it.
 
 ## What's Different From Our World
 
-- Bioelectric energy harvesting from engineered colonial organisms
-- A partitioned Nordic society with a militarized border wall
+- A partitioned Nordic society with a militarized border wall and century-old stalemate
+- Solar farms as strategic military assets on the frontier
 - Wearable surveillance marketed as personal assistants
-- A 150-year-old conflict that no living person remembers the origin of clearly
-- Organisms that exist in the space between tool and life, property and person
+- A covert military faction operating within its own government to restart a dormant war
+- Underground drilling weapons designed to collapse border infrastructure
 
 ## What's The Same
 
@@ -116,3 +133,4 @@ Intimacy is surveillance. The foundation records presence, emotional tenor, prox
 - Everyone lies about something; the question is what and to whom
 - The people who maintain systems — who do the daily, physical, unglamorous work — are the ones who understand them best
 - Heat, exhaustion, hunger, and loneliness shape behavior more than ideology
+- A mother's last gift is often a truth she couldn't say out loud
