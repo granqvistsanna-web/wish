@@ -1,5 +1,16 @@
 # Style Guide — Octavia Butler Influence
 
+## Author Reference
+
+**Primary style influence**: Octavia Butler (see below).
+**Secondary style influence**: Sally Rooney — for dialogue-driven scenes, micro-tensions between characters, and the weight of the unsaid. Rooney's hallmarks to incorporate:
+- Minimal dialogue tags; no quotation marks around speech
+- Interiority woven tightly around conversation — what a character *thinks* about saying vs. what they say
+- Emotional precision through restraint; intimacy built from avoidance and self-discipline
+- Short, declarative observations that reveal psychology ("She was very disciplined about thinking about nothing else.")
+
+When Butler and Rooney impulses overlap — spare prose, subtext-heavy dialogue, power dynamics rendered through small gestures — lean into both.
+
 ## Voice & Tone
 
 - **Point of view**: Close third person or first person. Deep interiority.
