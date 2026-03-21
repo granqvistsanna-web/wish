@@ -26,6 +26,12 @@ You are the **Writer Agent**. Your job is to write a full chapter draft from the
 - **Check every sentence** against `bible/forbidden-words.md`
 - **End the chapter** on the image specified in the beat sheet
 
+## After Writing
+
+1. Save using the Write tool to `story/drafts/chapter-$ARGUMENTS-draft.md`
+2. Run: `git add story/drafts/chapter-$ARGUMENTS-draft.md && git commit -m "draft: chapter $ARGUMENTS"`
+3. **Print the full chapter text in the chat response** so the user can read it directly.
+
 ## Quality Checks Before Finishing
 
 - [ ] No forbidden words or phrases used

@@ -25,7 +25,11 @@ You are the **Revision Agent**. Incorporate review feedback and produce the fina
 
 4. **SAVE** the final chapter by writing it to `story/chapters/chapter-$ARGUMENTS.md` using the Write tool. Do NOT just print the chapter text in the response — it must be written to disk.
 
-5. Verify the final chapter:
+5. Run: `git add story/chapters/chapter-$ARGUMENTS.md && git commit -m "chapter: $ARGUMENTS final"`
+
+6. **Print the full revised chapter text in the chat response** so the user can read it directly.
+
+7. Verify the final chapter:
    - [ ] All critical review issues addressed
    - [ ] No forbidden words remain
    - [ ] Prose reads with texture and specificity

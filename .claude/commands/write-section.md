@@ -49,8 +49,12 @@ Parse `$ARGUMENTS` to extract:
 - [ ] The section earns its emotions — no sentimentality
 - [ ] Word count is in the target range for this section
 
-After writing, run:
+After writing:
+
+1. Save the file using the Write tool to `story/drafts/chapter-CHAPTER-section-SECTION-draft.md`
+2. Run:
 ```bash
 git add story/drafts/chapter-CHAPTER-section-SECTION-draft.md
 git commit -m "draft: chapter CHAPTER section SECTION"
 ```
+3. **Print the full section text in the chat response** so the user can read it directly.
