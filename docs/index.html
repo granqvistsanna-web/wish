@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wish</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="index-page">
+    <header class="index-header">
+      <h1 class="book-title">Wish</h1>
+      <button class="theme-btn" onclick="toggleTheme()" aria-label="Byt tema">◑</button>
+    </header>
+    <ol class="index-list">
+    <li>
+      <a href="chapters/chapter-1.html">
+        <span class="ch-num">1</span>
+        <span class="ch-title">Kapitel 1: Ankomst</span>
+      </a>
+    </li>
+    </ol>
+  </div>
+  <script>
+    function toggleTheme() {
+      const d = document.documentElement;
+      const current = d.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      d.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    (function() {
+      const saved = localStorage.getItem('theme') || 'light';
+      document.documentElement.setAttribute('data-theme', saved);
+    })();
+  </script>
+</body>
+</html>

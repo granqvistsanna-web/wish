@@ -1,0 +1,282 @@
+/* ── Reset & base ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #f7f4ef;
+  --surface: #fff;
+  --text: #1a1a1a;
+  --text-muted: #777;
+  --accent: #8b4a2f;
+  --accent-hover: #6d3823;
+  --border: #e0dbd3;
+  --sidebar-w: 260px;
+  --font-body: Georgia, 'Times New Roman', serif;
+  --font-ui: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+[data-theme="dark"] {
+  --bg: #141210;
+  --surface: #1e1b18;
+  --text: #e8e4de;
+  --text-muted: #888;
+  --accent: #c47a5a;
+  --accent-hover: #d9906c;
+  --border: #2e2a26;
+}
+
+html { font-size: 18px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  line-height: 1.75;
+  transition: background 0.2s, color 0.2s;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-hover); text-decoration: underline; }
+
+
+/* ── Sidebar ── */
+.sidebar {
+  position: fixed;
+  top: 0; left: 0;
+  width: var(--sidebar-w);
+  height: 100vh;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  padding: 1.5rem 1.25rem;
+  overflow-y: auto;
+  transform: translateX(-100%);
+  transition: transform 0.25s ease;
+  z-index: 200;
+}
+.sidebar.open { transform: translateX(0); }
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.site-title {
+  font-family: var(--font-ui);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--text);
+}
+.site-title:hover { text-decoration: none; color: var(--accent); }
+
+.sidebar-close {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: 1rem;
+  padding: 4px 6px;
+  border-radius: 4px;
+}
+.sidebar-close:hover { color: var(--text); background: var(--border); }
+
+.chapter-list {
+  list-style: none;
+  padding: 0;
+}
+.chapter-list li { margin-bottom: 0.25rem; }
+.chapter-list a {
+  display: block;
+  padding: 0.4rem 0.5rem;
+  border-radius: 5px;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.chapter-list a:hover {
+  background: var(--border);
+  text-decoration: none;
+  color: var(--accent);
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 150;
+}
+.overlay.open { display: block; }
+
+
+/* ── Reader layout ── */
+.reader {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 1.5rem 5rem;
+}
+
+.reader-header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.85rem 0;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 3rem;
+  z-index: 100;
+}
+
+.menu-btn, .theme-btn {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  cursor: pointer;
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1;
+  transition: border-color 0.15s, background 0.15s;
+}
+.menu-btn:hover, .theme-btn:hover {
+  border-color: var(--accent);
+  background: var(--border);
+}
+
+.site-title-inline {
+  flex: 1;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  color: var(--text);
+}
+.site-title-inline:hover { text-decoration: none; color: var(--accent); }
+
+
+/* ── Chapter content ── */
+.chapter-content h1 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 2.5rem;
+  color: var(--text);
+}
+.chapter-content h2 {
+  font-size: 1.3rem;
+  margin: 2.5rem 0 1rem;
+}
+.chapter-content h3 {
+  font-size: 1.1rem;
+  margin: 2rem 0 0.75rem;
+}
+.chapter-content p {
+  margin-bottom: 1.35rem;
+  text-indent: 0;
+  hyphens: auto;
+}
+.chapter-content p + p { text-indent: 2rem; margin-top: -0.5rem; }
+.chapter-content hr {
+  border: none;
+  text-align: center;
+  margin: 2.5rem 0;
+  color: var(--text-muted);
+}
+.chapter-content hr::after {
+  content: '* * *';
+  font-size: 0.9rem;
+  letter-spacing: 0.3em;
+}
+.chapter-content em { font-style: italic; }
+.chapter-content strong { font-weight: 700; }
+
+
+/* ── Chapter nav ── */
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.nav-btn {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  transition: border-color 0.15s, background 0.15s;
+  white-space: nowrap;
+}
+.nav-btn:hover { border-color: var(--accent); background: var(--border); text-decoration: none; color: var(--accent); }
+.nav-btn.disabled { opacity: 0.3; pointer-events: none; }
+.nav-btn.home-btn { color: var(--accent); border-color: var(--accent); }
+.nav-btn.home-btn:hover { background: var(--accent); color: var(--bg); }
+
+
+/* ── Index page ── */
+.index-page {
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem 5rem;
+}
+.index-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1.5rem;
+}
+.book-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+.index-list {
+  list-style: none;
+  counter-reset: ch;
+}
+.index-list li {
+  counter-increment: ch;
+  border-bottom: 1px solid var(--border);
+}
+.index-list a {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 1rem 0.25rem;
+  color: var(--text);
+  transition: color 0.15s;
+}
+.index-list a:hover { color: var(--accent); text-decoration: none; }
+.ch-num {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  min-width: 2.5rem;
+  letter-spacing: 0.05em;
+}
+.ch-title {
+  font-size: 1.05rem;
+}
+
+/* ── Responsive ── */
+@media (min-width: 900px) {
+  .sidebar {
+    transform: translateX(0);
+    position: fixed;
+  }
+  .overlay { display: none !important; }
+  .menu-btn { display: none; }
+  .reader { margin-left: var(--sidebar-w); }
+}
