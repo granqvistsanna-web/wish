@@ -1,10 +1,8 @@
 # Kapitel 1: Ankomst
 
-Bilen stannade och Amma räknade till tio.
+Bilen stannade. Amma öppnade dörren.
 
-Det var ett gammalt mönster — inte ångest, inte tvivel, bara en tröskel mellan ett tillstånd och nästa. Tio sekunder. Sedan öppnade hon dörren.
-
-Värmen slog mot henne direkt. Inte som Capitols sommarhetta, tung och fuktig och inbäddad i kläder, utan som en ugn som aldrig stängts av. Torr. Absolut. Läpparna stelnade vid kontakten med luften. Solljuset reflekterades i solpanelernas glas och skar in från alla vinklar på en gång. Tio. Tjugo. Hon kröp ihop en sekund, räknade sedan upp: *Amma Wost. Teknisk inspektör, Energidepartementet, underhållsenheten. Besiktning av modul 7-12. Det är allt du är.*
+Värmen slog mot henne direkt. Inte som Capitols sommarhetta, tung och fuktig och inbäddad i kläder, utan som en ugn som aldrig stängts av. Torr. Absolut. Läpparna stelnade vid kontakten med luften. Solljuset reflekterades i solpanelernas glas och skar in från alla vinklar på en gång. Hon kröp ihop en sekund, sedan: *Amma Wost. Teknisk inspektör, Energidepartementet, underhållsenheten. Besiktning av modul 7-12. Det är allt du är.*
 
 Det var lite av ingenting. Det räckte.
 
@@ -60,7 +58,7 @@ Karin svarade inte. Vände sig och gick.
 
 ---
 
-Amma satte sig på sängkanten och räknade till tio. Stod sedan upp, hängde väskan på kroken, och gick ut för att lära sig anläggningens geografi.
+Amma satte sig på sängkanten ett ögonblick. Stod sedan upp, hängde väskan på kroken, och gick ut för att lära sig anläggningens geografi.
 
 ---
 
@@ -224,8 +222,6 @@ Amma drack sitt vatten.
 
 ---
 
-Ammas rum var tre steg brett och fyra steg djupt. Hon visste det för att hon mätt det, tre gånger, med exakt samma steg.
-
 Axeln brände mot madrassen. Fuktigare nu på natten, och det satte sig alltid i ärrvävnaden på ett sätt hon aldrig lärt sig förekomma. Hon vände sig, lade vänster sida mot kudden.
 
 Karin: visste vad hon var. Hade sagt det rakt ut utan drama och sedan inte gjort mer med det. Möjligen välvilja. Möjligen en påminnelse om skuld.
@@ -242,7 +238,7 @@ Amma blundade.
 
 Cassia var oklar. Cassia kunde vara vad som helst. Och signalen som satt kvar i bröstet nu. Det var ett operativt problem, ingenting mer. Att bli behandlad som en jämlike av fel person. Att bli läsbar.
 
-Hon hade arbetat åtta år med att vara osynlig. Åtta år — det antalet var sant, det var det hon höll fast vid. Sju och sex var de andras år, inte hennes. Hon räknade dem inte in.
+Hon hade arbetat åtta år med att vara osynlig.
 
 Ur fönstret: modul 7-12, mörk silhuett mot stjärnorna. Ingen belysning. Ingen rörelse.
 
@@ -253,8 +249,6 @@ Produktionsavvikelsen i modulen rapporterades inte förrän efteråt. Inte före
 *Enkla lösningar är nästan alltid de riktiga.*
 
 Det var vad det var.
-
-Takplankor: sexton. Sexton igen.
 
 Cassia hade inte sagt varför hon ville ha rapporten först. Och Amma hade inte frågat.
 

@@ -20,7 +20,7 @@
 - **Kärnsträvan**: Lägga detta uppdrag bakom sig. Hamna i officerens goda öga. Söka ny position långt från muren. Avskärma sig från kriget och fronten.
 - **Kärnrädsla**: Att bli avslöjad. Att bli fångad mellan lojaliteter. Att tvingas förrråda människor som liknar de hon en gång tillhörde.
 - **Motsägelse**: Hon blev agent för att göra skillnad, men allt hon ser är elände. Hon ska förråda människor som kämpar för samma sak hennes mor dog för.
-- **Konflikthantering**: Kontroll. Räknar sekunder, räknar steg, räknar allt. Fryser vid explosioner (PTSD från Sektor 14).
+- **Konflikthantering**: Kontroll. Håller sig i rörelse, håller sig fokuserad. Fryser vid explosioner (PTSD från Sektor 14).
 - **Vad hon ljuger om**: Allt. Sitt namn, sitt ursprung, sitt uppdrag. Hon har ljugit så länge att hon glömt vad som är sant.
 
 ## Röst
@@ -37,11 +37,11 @@
 - **Relation till Tal**: Irriterad. Han verkar vilja övervaka henne.
 
 ## Arc
-- **Börjar som**: En professionell lögnare som vill göra sitt jobb och försvinna. Distanserad, kontrollerande, rädd.
+- **Börjar som**: En professionell lögnare som vill göra sitt jobb och försvinna. Distanserad, kontrollerande, rädd för anknytning.
 - **Midpunktsförskjutning**: ?
 - **Slutar som**: ?
 
 ## Kropp & Biologi
 - **Fysiska begränsningar**: Axelskada från Sektor 14 som aldrig läkt. Värker vid fukt/kyla/tryck.
-- **Relation till sin kropp**: Kroppen är ett verktyg. Hon ignorerar smärta tills den tvingar sig på henne. Räknar som copingmekanism.
+- **Relation till sin kropp**: Kroppen är ett verktyg. Hon ignorerar smärta tills den tvingar sig på henne.
 - **Hur andra läser hennes kropp**: "Du ser inte ut som en tekniker." "Du ser inte ut som någon från Capitol." Hennes kropp avslöjar saker hennes ord döljer.
