@@ -2,57 +2,83 @@
 
 ## Premise
 
-Amma Wost anländer till Station 7-Syd i öknen som teknisk inspektör från Energidepartementet. I verkligheten är hon undercover-agent, skickad för att undersöka oegentligheter i modul 7-12 och den föregående teknikerns mystiska död. Det hon inte räknat med är att stationsfolket — och dess föreståndare — gör det omöjligt att förbli osynlig. Och att det hon hittar i modulen inte är vad departementet skickade henne för att hitta.
+Amma Wost anländer till solfarmen nära muren som ersättare för en ingenjör som dog under ett underhållsarbete. Officiellt är hon gridinspektör. I verkligheten är hon undercover-agent, skickad för att undersöka oregelbundna energimönster i nätverket. Det hon hittar är inte ett tekniskt fel. Det är ett system som legat vilande i decennier och som nu vaknat igen — ett system hennes mor en gång byggde.
 
 ## The Hook
 
-Den tolfte modulen står lite för sig. Inte långt. Bara tillräckligt för att man ska märka det.
+En vast solkraftsanläggning sträcker sig mot muren. Torn blinkar längs horisonten. Landskapet är tyst och spänt.
 
-## Act One — Ankomst (Kapitel 1–5)
+Amma anländer med transportkonvojen.
 
-Amma anländer. Hon lär sig stationens geografi, rutiner, och folk. Alla vet mer om Majas död än de berättar. Karin vet att Amma är från fel sida om muren — och väljer att skydda den informationen, utan att förklara varför. Viktor visade henne hela stationen utom modul 7-12. Samuel ser igenom hennes fasad nästan omedelbart och konfronterar henne med det.
+## Act One — Ankomst och misstanke (Kapitel 1–5)
 
-Cassia ber henne — kväll ett, under stjärnorna — att komma till henne om hon hittar något konstigt. *Innan* hon lämnar in sin rapport.
+Amma rapporterar till anläggningen som ersättare för ingenjören Jarik Sellen, vars officiella dödsorsak är elektrisk olycka under underhåll. Hennes officiella uppdrag: diagnostisera instabilitet i energinätet. Hennes verkliga uppdrag: ta reda på om anläggningen är komprometterad.
 
-Amma hittar de första ledtrådarna i modul 7-12. Produktionsavvikelsen rapporterades inte förrän efter Majas död — inte före. Det stämmer inte med en olycka. Det stämmer med att Maja hittade något och inte hann berätta det.
+Hon lär sig anläggningens rytmer. Skift. Rutiner. Vem som pratar och vem som tystnar. Energiproduktionen sjunker oförklarligt varje natt — ett litet procenttal försvinner.
 
-## Act Two — Djupet (Kapitel 6–15)
+Kontrollrumsteknikern Lena Morcant, som arbetade med Sellen, beskriver honom som besatt under sina sista veckor. Han trodde att något i nätet stal ström.
 
-Amma gräver. Tekniska fynd i modulen leder till ett mönster som departementet antingen inte sett — eller inte velat se.
+Amma bekräftar avvikelsen. Produktionen överstiger vad som leveras till försvarsnätverket. Strömmen försvinner nånstans.
 
-Samuel och Amma rör sig mot varandra i det enda utrymme de har: nätter i kommunikationsrummet när han arbetar sent, hans skärpa mot hennes kontroll, hans vägran att låta henne vara osynlig. Han är den ende som ser henne — inte vad hon låtsas vara, utan vad hon faktiskt är — och det är det farligaste möjliga. Hon börjar låta honom. Det är hennes misstag.
+I Sellens underhållsloggar hittar hon ett ord upprepat i marginalen: *Tenessa*. Ordet triggar ett vagt minne kopplat till hennes mor.
 
-Det trettonde fundamentet dyker upp — ett namn, en gammal princip, ett underjordiskt nätverk med rötter på båda sidor muren. Cassia är kopplad till det. Maja var det. Och Ammas mor — som officiellt aldrig dog i någonting alls — var det också.
+Hon spårar förlusten till en routingnod som inte finns på officiella kartor. Noden aktiveras bara under specifika timmar.
 
-Amma inser att hennes uppdrag och Majas öde hänger ihop. Departementet skickade henne inte för att hitta sanningen. De skickade henne för att begrava den.
+*Amma försöker inspektera infrastrukturen under invertrarbyggnaden — platsen där Sellen dog — men servicegången är förseglad.*
+
+## Act Two — Undersökning och avslöjande (Kapitel 6–14)
+
+Amma skickar krypterad rapport till sin hanterare inom underrättelsetjänsten. Hon är den undercover-operatör som skickades för att avgöra om solfarmen komprometterats. Hanteraren bekräftar: misstänkta energimönster har registrerats i månader.
+
+Samuel — kommunikationsansvarig, rastlös, sex år på stationen — ser igenom Ammas fasad tidigt och konfronterar henne med det. Hans skärpa är farlig. Han är också den ende som behandlar henne som en jämlike, vilket är farligare. De rör sig mot varandra i det utrymme de har: sena nätter, halvt dolda samtal, det osagda som samlas när man är länge på en liten plats. Hon börjar låta honom se henne. Det är hennes misstag.
+
+Amma minns ordet Tenessa från ett hänge hennes mor ägde. Hon hittar fram sin mors gamla anteckningsbok.
+
+Hon kopierar åtkomstloggar och hittar att Sellens inloggningsuppgifter användes *efter* hans registrerade dödstidpunkt.
+
+Under invertrarbyggnaden hittar hon tunga transmissionskablar som löper under jord mot äldre infrastruktur. Kablarna är nya installationer i en mycket äldre tunnel.
+
+Hon kartlägger energiomledningen. Lastprofilen matchar industriell borrningsutrustning i drift under jord.
+
+*Tenessasystemet är aktivt.*
+
+Hennes mors skisser i anteckningsboken matchar tunnlarna hon hittat. Hennes mor arbetade en gång på den ursprungliga Tenessainfrastrukturen. Amma är inte här av en slump. Eller — inte bara av en slump.
+
+Bakom varje auktoriseringskommando i energiomledningen finns en och samma signatur: driftsdirektör Halvar Ise.
 
 ### Vändpunkt
 
-Amma hittar Majas anteckningar, gömda i modulens vägg. Maja visste. Maja försökte rapportera — inte till departementet, utan till Cassia. Och sedan dog hon.
+Samuel fångar Ammas nätverksaktivitet. Han är kommunikationsansvarig — han *skulle* se det. Han konfronterar henne, arg på ett sätt som inte är kallt utan hett och gammalt: hon har undersökt saker hon inte borde undersöka, via kanaler hon inte borde ha tillgång till, och han vet att hon inte är vad hon sagt att hon är.
 
-Samma kväll konfronterar Samuel henne. Han har sett vad hon gjort med nätverket — spårat hennes sökningar, hennes tidpunkter, hennes avvikelser. Han vet att hon inte är vad hon påstår. Och han är arg på ett sätt som inte är kallt utan hett och gammalt, som om hennes lögner bekräftat något han alltid vetat om sig själv: att han aldrig borde ha låtit sig bli sedd av någon. Han säger det hon inte kan ta tillbaka: *Du har ljugit så länge att du har glömt vad som är sant.* Det är sant. Det är därför det skär.
+*Du har ljugit så länge att du har glömt vad som är sant.*
 
-Han rapporterar inte. Men han drar sig tillbaka. Och när han drar sig tillbaka tar han med sig det enda Amma börjat lita på.
+Det är sant. Det är därför det skär.
 
-## Act Three — Valet (Kapitel 16–20)
+Han rapporterar inte. Men han drar sig tillbaka — och tar med sig det enda ankare Amma börjat lita på. Romansen fortsätter, men förändrad. Inte längre ett möte mellan två människor som försöker förstå varandra. Nu ett möte mellan två som vet exakt vad den andra är och väljer det ändå, i brist på något bättre eller på grund av att man inte kan låta bli. Det är mörkare. Det är ärligare.
 
-Det är inte längre en fråga om vad som hände Maja. Det är en fråga om vad Amma ska göra med det hon vet — och om hon kan göra det ensam.
+## Act Three — Sanning och konfrontation (Kapitel 15–20)
 
-Romansen med Samuel fortsätter, men förändrad. Det som var farligt för att det var nära är nu farligt på ett annat sätt: de dras till varandra trots att de vet bättre, eller kanske på grund av det. Det är inte längre ett möte mellan två människor som försöker förstå varandra. Det är ett möte mellan två människor som vet exakt vad den andra är och väljer det ändå. Det är mörkare. Det är ärligare. Det är värre.
+Isse börjar ifrågasätta Ammas aktiviteter direkt. Hennes undersökning har dragit för mycket uppmärksamhet. Den underjordiska energikonsumtionen fortsätter att öka — systemet närmar sig full operativ kapacitet.
 
-Rapporten måste lämnas in. Om hon rapporterar det departementet vill ha — tystnad kring modulen, Majas olycka som olyckshändelse, ingenting om det trettonde fundamentet — klarar hon sig. Ny tjänst, bort från muren, det hon velat i åtta år.
+Amma hittar arkiverade samtal som visar att Sellen konfronterade Ise om det dolda systemet. Konfrontationen skedde timmar innan Sellen dog.
 
-Om hon rapporterar sanningen offrar hon sig själv. Och kanske räddar något hennes mor dog för.
+Hon konfronterar Ise i administrationsbyggnaden. Han förklarar sig lugnt: det hundraåriga vapenstilleståndet håller på att kväva civilisationen. Tenessasystemet, fullständigt aktiverat, kommer att kollapsa delar av murens försvar. Kriget måste starta om. Det är ett kirurgiskt ingrepp, inte förstörelse. Han anser sig handla för civilisationens långsiktiga överlevnad.
 
-Cassia är svaret på frågan Amma inte vågat ställa: *vad är du beredd att betala.* Samuel är den som ser henne göra valet — och den enda för vilken det kostar något att hon gör det.
+Amma har ett val.
+
+Avslöja operationen — och avslöja sin egen koppling till Tenessa genom sin mor. Hennes täckidentitet spricker. Allt hon byggt upp, allt hon bevisat, försvinner.
+
+Eller sabotera kraftnätet själv och stoppa borrsystemet innan tunneln under muren är klar — och låta sanningen om Sellen, om Ise, om Tenessa aldrig komma fram officiellt.
+
+Samuel vet vad hon håller på att göra. Det är det sista rum de delar.
 
 ## The Ending
 
-Amma väljer. Kostnaden är verklig. Det hon vinner är svårare att sätta ord på — inte frihet, inte säkerhet, utan kanske det enda hon aldrig haft: att vara sig själv i ett rum utan att räkna utgångarna.
+Solfarmen vid gryningen. Samma tysta landskap som öppningsbilden — men nu är de dolda systemen under den fullt kända.
 
-Samuel stannar eller går. Det avgörs av vad han är beredd att förlora.
+Hundraårskrigets balans hänger på beslut som fattades på en plats de flesta tror bara är ett kraftverk.
 
-*(Slutscen: att bestämma.)*
+*(Vad Amma väljer, och vad det kostar: att bestämma.)*
 
 ## Thematic Statement
 

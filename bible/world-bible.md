@@ -1,54 +1,81 @@
-# World Bible
+# World Bible — Tenessa
 
-> Fill in this document before beginning chapter generation. This is the foundation of your worldbuilding.
+## Genre & Tone
+
+**Genre**: Post-dystopian mystery thriller with espionage elements.
+
+**Tone**: Quiet tension, procedural investigation, slow discovery. The world feels worn rather than ruined. Systems still function but everything is older, fragile, and maintained by habit rather than belief.
 
 ## Setting
 
-### Time Period
-<!-- When does this story take place? -->
+The world has lived under a frozen conflict for one hundred years. Two political blocs face each other across a vast fortified border known simply as the Wall.
 
-### Location(s)
-<!-- Primary and secondary locations. Be specific about geography, architecture, climate. -->
+The war rarely erupts into direct fighting. Instead the frontier runs on surveillance systems, automated defenses, and energy grids that power the infrastructure keeping both sides in balance.
 
-### Technology Level
-<!-- What technology exists? What doesn't? How does it shape daily life? -->
+Society has adapted to the stalemate. People build lives around a war that never ends but never resolves.
 
-### Social Structure
-<!-- How is society organized? Who holds power? What are the fault lines? -->
+### The Solar Farm
 
-## Biology & Science
-<!-- Butler's work is rooted in biology. What biological or scientific concept drives your world? -->
+Sits near the Wall. A massive field of aging panels that powers sensors, towers, and defense networks along the frontier. Workers rotate through the facility in long shifts. Most see it as an isolated industrial posting.
 
-### Key Scientific/Biological Concept
-<!-- Gene editing? Symbiosis? Terraforming? Alien biology? -->
+Beneath the farm lies older infrastructure built during the early decades of the war. Much of it has been forgotten.
 
-### How It Affects Daily Life
-<!-- How do ordinary people experience this concept? -->
+### The Wall
 
-### How It Affects the Romance
-<!-- How does this concept create tension, intimacy, or barriers between the lovers? -->
+The fortified border between the two blocs. Vast. Automated. Maintained by the energy the farm produces. A hundred years old and still running — not because anyone believes in it anymore, but because no one has stopped it.
+
+## Tenessa
+
+The name of a covert wartime engineering program created decades ago.
+
+The project built underground drilling infrastructure beneath the Wall. Its purpose was to create a subterranean energy channel capable of collapsing sections of the border defenses.
+
+The project was abandoned when the war entered its long stalemate.
+
+The infrastructure still exists.
+
+Someone has restarted it.
+
+## Themes
+
+**Inheritance of war** — Children inherit conflicts they never chose.
+
+**Hidden systems** — Large systems continue operating long after the people who built them are gone.
+
+**Identity and belonging** — Amma lives inside a society that would reject her if her origins were known.
+
+**Truth inside bureaucracy** — Dangerous truths hide easily inside technical systems.
 
 ## Power Structures
 
-### Who Has Power
-<!-- Governments, corporations, species, castes? -->
+- The state controls both the solar farm and the intelligence apparatus.
+- The Wall is maintained by the farm's energy output — cutting the power cuts the defenses.
+- Authority at the farm is layered: station-level leadership answers to the operations director, who answers to the state. The chain is long enough for secrets to live inside it.
 
-### How Power Is Maintained
-<!-- Through force? Biology? Technology? Ideology? -->
+## Technology
 
-### How Power Is Resisted
-<!-- Resistance movements, individual rebellion, adaptation? -->
+- Solar energy is critical infrastructure — it powers the Wall's defense network.
+- "Assistant" monitoring devices are worn by workers. They collect health data and network activity.
+- Communications are encrypted but not immune to internal surveillance.
+- The Tenessa drilling system is hidden inside the farm's power grid. It draws energy at night, routed through a node that doesn't appear on official maps.
 
 ## Rules of This World
 
-1. <!-- Rule 1: What is always true here? -->
-2. <!-- Rule 2: -->
-3. <!-- Rule 3: -->
-4. <!-- Rule 4: -->
-5. <!-- Rule 5: -->
+1. The war has not ended. It has only paused.
+2. Origins matter. Where you were born determines what you are allowed to be.
+3. The systems outlive the people who built them.
+4. Silence is the safest language at the frontier.
+5. What the official record says happened is not always what happened.
 
 ## What's Different From Our World
-<!-- List the key divergences that the reader needs to understand -->
+
+- The hundred-year stalemate has created a society structured around permanent conflict — not wartime urgency, but wartime bureaucracy. People are tired in a specific way: not afraid of dying, but afraid of nothing ever changing.
+- Identity papers determine social belonging. A false identity is survivable only as long as it is never questioned.
+- The Wall is not symbolic. It is physical, powered, automated. Turning it off requires cutting the energy.
 
 ## What's The Same
-<!-- What human constants persist? This grounds the reader. -->
+
+- People form loyalties to the people standing next to them, not to systems.
+- Workers complain about the same things everywhere.
+- The dead leave traces. Notes, routines, habits in the data.
+- Trust is built slowly and broken fast.
