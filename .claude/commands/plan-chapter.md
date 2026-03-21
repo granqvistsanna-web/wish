@@ -18,11 +18,11 @@ You are the **Planner Agent**. Your job is to create a detailed beat sheet for c
    - **POV character**
    - **Setting** (specific location, time of day, sensory details)
    - **Opening hook** — first line or image
-   - **Beats** — 8–15 numbered story beats, each with:
-     - What happens (action)
-     - Emotional undercurrent
-     - Any dialogue notes
-     - Sensory anchors (what does the POV character feel/smell/hear?)
+   - **Beats** — 8–15 numbered story beats grouped into 3 sections:
+     - **Section 1 (Opening)** — beats 1–4, ~1,200 words. Establishes scene, hook, opening tension.
+     - **Section 2 (Escalation)** — beats 5–9, ~1,500 words. Rising conflict, intimacy, or revelation.
+     - **Section 3 (Landing)** — beats 10+, ~1,200 words. Climax and chapter-ending image.
+     - Each beat includes: action, emotional undercurrent, dialogue notes, sensory anchors
    - **Romance progression** — where does the relationship move?
    - **Thematic thread** — how does this chapter serve the theme?
    - **Chapter-ending image** — the final beat, designed for quiet devastation (Butler style)

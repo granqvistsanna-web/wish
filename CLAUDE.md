@@ -37,8 +37,10 @@ Each chapter follows this pipeline:
 
 ### 2. WRITE (Writer Agent)
 - Read the beat sheet + `bible/` + `state/current/`
-- Write the full chapter draft to `story/drafts/chapter-NN-draft.md`
-- Target: 3,000–5,000 words per chapter
+- Write each section separately (Section 1 → 2 → 3), committing after each one
+- Assemble sections into `story/drafts/chapter-NN-draft.md`
+- Target: ~1,200 / ~1,500 / ~1,200 words per section (3,000–4,000 total)
+- **CRITICAL**: Always use the Write tool to save files to disk. Never just print chapter text in the response.
 
 ### 3. REVIEW (Reviewer Agents — run in parallel)
 Three independent reviewers check the draft:
@@ -69,8 +71,14 @@ Three independent reviewers check the draft:
 
 ## Commands
 
-- **Plan a chapter**: "Plan chapter N" → runs the Planner agent
-- **Write a chapter**: "Write chapter N" → runs the Writer agent
-- **Review a chapter**: "Review chapter N" → runs all three reviewers in parallel
-- **Revise a chapter**: "Revise chapter N" → incorporates feedback and finalizes
-- **Full pipeline**: "Generate chapter N" → runs plan → write → review → revise → update state
+- **Plan a chapter**: `/plan-chapter N` → creates beat sheet at `story/drafts/chapter-N-beats.md`
+- **Write a section**: `/write-section N S` → writes section S (1, 2, or 3) of chapter N to `story/drafts/chapter-N-section-S-draft.md`
+- **Write a chapter**: `/write-chapter N` → writes the full chapter in one pass (slower)
+- **Review a chapter**: `/review-chapter N` → runs all three reviewers in parallel
+- **Revise a chapter**: `/revise-chapter N` → incorporates feedback, saves final to `story/chapters/chapter-N.md`
+- **Update state**: `/update-state N` → updates state/ and timeline/ after a chapter is finalized
+- **Full pipeline**: `/generate-chapter N` → plan → write sections → review → revise → update state → push
+
+## File Saving Rule
+
+**Every agent MUST use the Write tool to save files to disk.** Printing chapter text in the conversation is not saving. After every file is written, commit it with git.

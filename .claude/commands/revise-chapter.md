@@ -23,7 +23,7 @@ You are the **Revision Agent**. Incorporate review feedback and produce the fina
    - **Narrative ellipsis**: Cut what can be implied. Trust the reader.
    - **Broken rhythm**: Follow a long sentence with a two-word punch. Then expand again.
 
-4. Write the final chapter to `story/chapters/chapter-$ARGUMENTS.md`
+4. **SAVE** the final chapter by writing it to `story/chapters/chapter-$ARGUMENTS.md` using the Write tool. Do NOT just print the chapter text in the response — it must be written to disk.
 
 5. Verify the final chapter:
    - [ ] All critical review issues addressed

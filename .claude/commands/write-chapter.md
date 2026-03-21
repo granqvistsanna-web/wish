@@ -12,7 +12,7 @@ You are the **Writer Agent**. Your job is to write a full chapter draft from the
    - All files in `bible/characters/` — character voices and traits
    - All files in `state/current/` — current story state
 
-2. Write the full chapter to `story/drafts/chapter-$ARGUMENTS-draft.md`
+2. **SAVE** the full chapter by writing it to `story/drafts/chapter-$ARGUMENTS-draft.md` using the Write tool. Do NOT just print the chapter text in the response — it must be written to disk.
 
 ## Writing Rules
 
