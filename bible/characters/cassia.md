@@ -13,20 +13,20 @@
 - **Nyckelhistorik**:
   1. Hade mardrömmar och svårt att sova första tiden på farmen
   2. Hittade sin plats en kväll vid solnedgången — vändpunkten
-  3. Kände Maja, orolig över hennes "olycka"
+  3. Kände Sellen, orolig över hans "olycka"
 
 ## Psykologi
 - **Kärnsträvan**: Skydda sin personal och farmen. Kanske något mer — kopplat till det trettonde fundamentet?
-- **Kärnrädsla**: Att förlora fler människor (efter Maja)
+- **Kärnrädsla**: Att förlora fler människor (efter Sellen)
 - **Motsägelse**: Verkar genuint omtänksam men ber Amma att rapportera till henne först om hon hittar "något konstigt" — vems sida är hon på?
 - **Konflikthantering**: Avleder elegant. Leder samtal bort från det tunga och mot det hanterbara.
-- **Vad hon ljuger om**: Oklart. Men hon vet mer om modulen och Maja än hon berättar.
+- **Vad hon ljuger om**: Oklart. Men hon vet mer om modulen och Sellen än hon berättar.
 
 ## Röst
 - **Talmönster**: Värm, direkt, avväpnande. Ställer frågor som får andra att öppna sig.
 - **Vokabulärnivå**: Bildad men jordnära
 - **Verbala tics**: Talar till Amma som om de vore gamla vänner direkt
-- **Vad hon aldrig säger**: Vad hon verkligen tror hände med Maja. Vad hon vet om det trettonde fundamentet.
+- **Vad hon aldrig säger**: Vad hon verkligen tror hände med Sellen. Vad hon vet om det trettonde fundamentet.
 
 ## Relationer
 - **Relation till Amma**: Intresserad, välkomnande, men med en underström av beräkning. Vill att Amma ska lita på henne.

@@ -29,7 +29,7 @@
 - Amma sitter stilla med diagrammet.
 - Vad det innebär: routningsnoden är inte ett misstag. Den är designad. Designad av någon som förstod det officiella systemet tillräckligt väl för att bygga något bredvid det — osynligt för rutinunderhåll.
 - Det kräver resurser. Det kräver auktorisation. Det kräver att ingen frågar.
-- Maja frågade. Sellen frågade.
+- Sellen frågade.
 - Ammas inre: hon är inte rädd. Det är sämre än rädsla — hon är viss.
 
 ### Beat 4 — Samuel-beat (arbetsrelaterad, problematisk)

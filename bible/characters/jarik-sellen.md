@@ -6,12 +6,16 @@
 - **Roll**: Ingenjören vars död startar berättelsen. Förekommer endast i efterhand — genom anteckningar, loggar, andras minnen.
 
 ## Bakgrund
-- **Befattning**: Ingenjör vid solfarmen. Ansvarig för energisystemets tekniska underhåll.
+- **Befattning**: Tekniker vid solfarmen. Ansvarig för energisystemets tekniska underhåll, med fokus på modul 7-12.
 - **Nyckelhistorik**:
-  1. Upptäckte oregelbundna energiförluster och började spåra dem genom nätet
-  2. Hans anteckningar innehåller upprepade referenser till ordet Tenessa
-  3. Konfronterade Halvar Ise om det dolda systemet
-  4. Dog timmar efter konfrontationen — officiellt elektrisk olycka under underhåll
+  1. Arbetat på Station 7-Syd i sju år
+  2. Var "den nya" tillsammans med Samuel när båda anlände — slutade sedan prata med Samuel utan förklaring
+  3. Planterade mynta i fönsterkarmen i det rum som nu är Ammas
+  4. Började arbeta intensivt vid modul 7-12 — timme efter timme — mot slutet
+  5. Upptäckte oregelbundna energiförluster och började spåra dem genom nätet
+  6. Hans anteckningar innehåller upprepade referenser till ordet Tenessa
+  7. Konfronterade Halvar Ise om det dolda systemet
+  8. Dog timmar efter konfrontationen — officiellt elektrisk olycka vid modul 7-12. Viktor hittade hans kropp vid modulens bas.
 
 ## Psykologi
 - **Kärnsträvan**: Förstå systemet. Sellen var metodisk till det sista — kontrollerade allting tre gånger.

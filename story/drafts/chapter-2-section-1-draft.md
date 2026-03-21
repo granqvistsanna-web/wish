@@ -110,13 +110,13 @@ Inuti var det svalt. Modulerna reglerade sin interna temperatur av effektivitets
 
 Amma satte sig på huk vid den undre kopplingspanelen och öppnade underhållsloggen manuellt.
 
-Maja Lindström-Ehos sista post: måndag, tolfte april, klockan 14:22. Fyra rader. Rutin. Inget anmärkningsvärt.
+Sellens sista post: måndag, tolfte april, klockan 14:22. Fyra rader. Rutin. Inget anmärkningsvärt.
 
 Nästa post: fredag, sjuttonde maj. Ingen namnsignatur. Bara ett ID: *T-07-svc*.
 
 Amma fotograferade posten. Scrollade vidare. Fem poster till — alla *T-07-svc*. Alla rutinformulerade. Alla utan personnamn.
 
-Maja dog i slutet av april. Fyra veckor efter sin sista egna notering.
+Sellen dog i slutet av april. Fyra veckor efter sin sista egna notering.
 
 *T-07-svc* dök upp tre veckor efter det.
 

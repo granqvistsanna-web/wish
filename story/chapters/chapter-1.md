@@ -90,7 +90,7 @@ Han vek undan kragen och visade sin: grön LED mot det röda arket hud vid halse
 
 Det visade sig att Viktor hade en fast tur.
 
-Han visade henne modul tre och modul sju och pumphuset och det norra växthuset och destilleriet bakom det. Han berättade om varje del av konstruktionen med ägarens precision: vilken skarv han svetsade själv, vilken grund som sjunkit tre centimeter vintern det stora regnet kom.
+Han visade henne modul tre, modul sju, pumphuset, det norra växthuset och destilleriet bakom det. Han berättade om varje del av konstruktionen med ägarens precision: vilken skarv han svetsade själv, vilken grund som sjunkit tre centimeter vintern det stora regnet kom.
 
 Han ledde henne inte till modul 7-12.
 
@@ -98,7 +98,7 @@ Möjligen oavsiktligt. Amma antecknade det.
 
 De stannade vid den nordvästra väggen i skugga. Viktor torkade svetten från pannan.
 
-"Den förra teknikern", sa han. Rösten förändrade inte mycket. "Sellen. Sju år hos oss." Hans händer stannade — inte lång, bara ett ögonblick, shakingen upphörde som om den glömt sig. "Han kontrollerade allting tre gånger. Metodisk." En paus. "Ändå."
+"Den förra teknikern", sa han. Rösten förändrade inte mycket. "Sellen. Sju år hos oss." Hans händer stannade. Inte länge, bara ett ögonblick. Skakningarna upphörde som om de glömt sig. "Han kontrollerade allting tre gånger. Metodisk." En paus. "Ändå."
 
 Han fyllde inte i meningen. Torkade om pannan och nickade mot byggnaden.
 
@@ -150,7 +150,7 @@ Li lyfte blicken från tallriken — det enda tillfälle under hela middagen.
 
 Tvillingarna satt rakare.
 
-Cassia P:s ansikte var inte vad fotografierna visade. Det var problemet med fotografier: de visade en kontur, ett leende, en position. De visade inte ett ansikte som var *fullständigt* — svårt att titta bort ifrån, inte för skönhetens skull utan för närvaron. Inte konventionellt vackert. Omöjligt att sluta se.
+Cassia P:s ansikte var inte vad fotografierna visade. Det var problemet med fotografier: de visade en kontur, ett leende, en position. De visade inte ett ansikte som var *fullständigt* — svårt att titta bort ifrån och svårare att läsa.
 
 Hon rörde sig in i rummet utan att ta mer plats än kroppen krävde, och ändå förändrades någonting. Långt lockigt hår som grånade vid tinningarna, löst upplaget. Ljusa ögon som gick runt bordet med ett stilla, lyssnande uttryck.
 
@@ -192,7 +192,7 @@ Amma stod lite avsides med sitt glas vatten.
 
 "Du bor i rummet vid norra väggen."
 
-Cassia stod bredvid henne. Amma visste inte exakt när det hänt — ingen rörelse hon registrerat, bara närvaro. Tre steg bort, kanske fyra.
+Cassia stod bredvid henne. Amma visste inte exakt när det hänt. Ingen rörelse hon registrerat. Bara närvaro. Tre steg bort, kanske fyra.
 
 "Ja."
 
@@ -208,7 +208,7 @@ Amma sa ingenting.
 
 "Amma."
 
-Cassia vände sig mot henne. En naturlig rörelse. Hennes ögon gick direkt till Ammas och stannade, och Amma kände det — inte i tanken utan i bröstkorgen, ett litet tryck, ett signal hon inte hade ett namn på och inte ville ha ett.
+Cassia vände sig mot henne. En naturlig rörelse. Hennes ögon gick direkt till Ammas och stannade, och Amma kände det. Inte i tanken. I bröstkorgen, ett litet tryck, en signal hon inte hade ett namn på och inte ville ha ett.
 
 "Om du hittar något under besiktningen", sa Cassia. "Något konstigt. Något som inte stämmer."
 
@@ -240,7 +240,7 @@ Och Cassia.
 
 Amma blundade.
 
-Cassia var oklar. Cassia kunde vara vad som helst. Och signalen som satt kvar i bröstet nu — det var ett operativt problem, ingenting mer. Att bli behandlad som en jämlike av fel person. Att bli läsbar.
+Cassia var oklar. Cassia kunde vara vad som helst. Och signalen som satt kvar i bröstet nu. Det var ett operativt problem, ingenting mer. Att bli behandlad som en jämlike av fel person. Att bli läsbar.
 
 Hon hade arbetat åtta år med att vara osynlig. Åtta år — det antalet var sant, det var det hon höll fast vid. Sju och sex var de andras år, inte hennes. Hon räknade dem inte in.
 

@@ -9,11 +9,11 @@
 
 ## Bakgrund
 - **Ursprung**: "Solens son" — hans far (Sol/Solen?) arbetade troligen på farmen eller i liknande verksamhet
-- **Befattning/Roll**: Farmens nykomling. Ersatte Maja.
+- **Befattning/Roll**: Farmens nykomling. Ersatte Sellen.
 - **Nyckelhistorik**:
   1. Hans far är död
   2. Går i sin döde fars fotspår
-  3. Nyligen anländ till Station 7-Syd som Majas ersättare
+  3. Nyligen anländ till Station 7-Syd som Sellens ersättare
 
 ## Psykologi
 - **Kärnsträvan**: Att leva upp till sin fars arv? Att bevisa sig?
@@ -31,7 +31,7 @@
 ## Relationer
 - **Relation till Amma**: Misstänksam. Följer efter henne. Övervakar?
 - **Relation till Cassia**: Underordnad. Får tillrättavisning av henne.
-- **Relation till Maja**: Ersatte henne. Vet han mer om hennes död?
+- **Relation till Sellen**: Ersatte honom. Vet han mer om hans död?
 - **Relation till sin far (Sol/Solen)**: Bär hans arv. Instabil kring det.
 
 ## Arc

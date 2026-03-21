@@ -1,7 +1,7 @@
-# Karaktär: Amma Lindqvist (täcknamn: Amma Wost)
+# Karaktär: Amma Wost
 
 ## Grundläggande
-- **Fullständigt namn**: Amma Lindqvist (opererar som Amma Wost)
+- **Fullständigt namn**: Amma Wost
 - **Ålder**: 35–36 (osäkert, inga register kvar)
 - **Pronomen**: Hon
 - **Fysisk beskrivning**: Kort svart hår (lite för kort för värmen), hud mörkare än de flesta i Capitol men med märken av för lite sol de senaste åren. Ögon bruna i visst ljus, nästan svarta i annat. Händer slitna på fel sätt för en skrivbordstekniker.
@@ -31,7 +31,7 @@
 
 ## Relationer
 - **Relation till Cassia**: Misstänksam men dragen till henne. Cassia behandlar henne som en jämlike, vilket är farligt.
-- **Relation till Samuel**: Irriterad men träffad av hans observationer. Han ser igenom henne.
+- **Relation till Samuel**: Irriterad men träffad av hans observationer. Han ser igenom henne. **Primär romantisk spänning** — kontroll mot kontakt, lögn mot klarhet.
 - **Relation till Karin**: Respekt. Karin vet att Amma är "från fel sida" men skyddar den informationen.
 - **Relation till Viktor**: Vänlig distans. Han skryter, hon låter honom.
 - **Relation till Tal**: Irriterad. Han verkar vilja övervaka henne.

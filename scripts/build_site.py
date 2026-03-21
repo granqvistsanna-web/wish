@@ -198,7 +198,6 @@ def index_html(chapter_list: list) -> str:
       <button class="index-theme-btn" onclick="toggleTheme()" aria-label="Byt tema">◑</button>
       <span class="book-eyebrow">En roman</span>
       <h1 class="book-title">Wish</h1>
-      <p class="book-subtitle">Sanna Granqvist</p>
     </div>
 
     <div class="index-content">

@@ -13,7 +13,7 @@
 - **Nyckelhistorik**:
   1. Byggde farmen "med dessa händer" när det "bara var sand och vind och getter"
   2. Destillerar olaglig sprit bakom växthuset
-  3. Hittade Majas kropp vid modulens bas
+  3. Hittade Sellens kropp vid modulens bas
 
 ## Psykologi
 - **Kärnsträvan**: Stolthet. Att hans livsverk ska erkännas.
@@ -26,13 +26,13 @@
 - **Talmönster**: Berättande, stolt. Lite ohyfsade frågor ("Du ser ung ut för att vara tekniker av den graden"). Hör dåligt — komiska missförstånd.
 - **Vokabulärnivå**: Praktisk, arbetarklass
 - **Verbala tics**: Hör fel. Frågar "2?" när Amma säger "8". Upprepar.
-- **Vad han aldrig säger**: Vad han verkligen kände när han hittade Maja.
+- **Vad han aldrig säger**: Vad han verkligen kände när han hittade Sellen.
 
 ## Relationer
 - **Relation till Amma**: Nyfiken, lite ohyfsad, men vill imponera/hävda sig
 - **Relation till Cassia**: Respektfull, varm. Sitter rakare när hon kommer in.
 - **Relation till Karin**: Kollegialt
-- **Relation till Maja**: Hittade hennes kropp. Bär det.
+- **Relation till Sellen**: Hittade hans kropp. Bär det.
 
 ## Komisk relief
 Viktors dåliga hörsel ger komiska ögonblick:
