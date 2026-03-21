@@ -2,7 +2,7 @@ name: Build reader site
 
 on:
   push:
-    branches: [main, master]
+    branches: [main, master, "claude/new-project-setup-e46J1"]
     paths:
       - "story/chapters/**"
       - "scripts/build_site.py"
