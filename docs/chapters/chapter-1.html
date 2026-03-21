@@ -3,32 +3,40 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kapitel 1: Ankomst</title>
+  <title>Ankomst — Wish</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Courier+Prime&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../style.css">
 </head>
 <body>
+  <div class="progress-bar" id="pb"></div>
+
   <nav class="sidebar" id="sidebar">
-    <div class="sidebar-header">
-      <a class="site-title" href="../index.html">Wish</a>
+    <div class="sidebar-brand">
+      <a href="../index.html">WISH</a>
       <button class="sidebar-close" onclick="toggleSidebar()" aria-label="Stäng meny">✕</button>
     </div>
+    <div class="sidebar-label">Kapitel</div>
     <ol class="chapter-list">
-      <li><a href="../chapters/chapter-1.html">Kapitel 1: Ankomst</a></li>
+      <li><a href="../chapters/chapter-1.html" class="active">Kapitel 1: Ankomst</a></li>
 
     </ol>
   </nav>
   <div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
 
   <div class="reader">
-    <header class="reader-header">
+    <header class="top-bar">
       <button class="menu-btn" onclick="toggleSidebar()" aria-label="Öppna meny">☰</button>
-      <a class="site-title-inline" href="../index.html">Wish</a>
+      <a class="top-brand" href="../index.html">WISH</a>
       <button class="theme-btn" onclick="toggleTheme()" aria-label="Byt tema">◑</button>
     </header>
 
-    <article class="chapter-content">
-      <h1>Kapitel 1: Ankomst</h1>
-<p>
+    <div class="chapter-header">
+      <span class="chapter-kicker">Kapitel 01</span>
+      <h1>Ankomst</h1>
+    </div>
+
+    <article class="chapter-body">
+      <p>
 Bilen stannade och Amma räknade till tio.
 </p>
 <p>
@@ -406,27 +414,38 @@ Sömnen kom inte.
 </p>
     </article>
 
-    <div class="chapter-nav">
+    <div class="chapter-footer">
       <span class="nav-btn disabled">← Föregående</span>
-      <a class="nav-btn home-btn" href="../index.html">Kapitel</a>
+      <a class="nav-btn home-btn" href="../index.html">Alla kapitel</a>
       <span class="nav-btn disabled">Nästa →</span>
     </div>
   </div>
 
   <script>
+    // Reading progress
+    (function() {
+      const pb = document.getElementById('pb');
+      function update() {
+        const el = document.documentElement;
+        const pct = el.scrollTop / (el.scrollHeight - el.clientHeight) * 100;
+        pb.style.setProperty('--progress', pct.toFixed(1) + '%');
+      }
+      window.addEventListener('scroll', update, { passive: true });
+      update();
+    })();
+
     function toggleSidebar() {
       document.getElementById('sidebar').classList.toggle('open');
       document.getElementById('overlay').classList.toggle('open');
     }
     function toggleTheme() {
       const d = document.documentElement;
-      const current = d.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
+      const next = d.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
       d.setAttribute('data-theme', next);
       localStorage.setItem('theme', next);
     }
     (function() {
-      const saved = localStorage.getItem('theme') || 'light';
+      const saved = localStorage.getItem('theme') || 'dark';
       document.documentElement.setAttribute('data-theme', saved);
     })();
   </script>

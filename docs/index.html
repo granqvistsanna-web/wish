@@ -4,33 +4,41 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Wish</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Courier+Prime&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="index-page">
-    <header class="index-header">
+    <div class="index-hero">
+      <button class="index-theme-btn" onclick="toggleTheme()" aria-label="Byt tema">◑</button>
+      <span class="book-eyebrow">En roman</span>
       <h1 class="book-title">Wish</h1>
-      <button class="theme-btn" onclick="toggleTheme()" aria-label="Byt tema">◑</button>
-    </header>
-    <ol class="index-list">
-    <li>
+      <p class="book-subtitle">Sanna Granqvist</p>
+    </div>
+
+    <div class="index-content">
+      <div class="index-section-label">Kapitel</div>
+      <ol class="index-list">
+  <li>
       <a href="chapters/chapter-1.html">
-        <span class="ch-num">1</span>
-        <span class="ch-title">Kapitel 1: Ankomst</span>
+        <span class="ch-num">01</span>
+        <span class="ch-title">Ankomst</span>
+        <span class="ch-arrow">→</span>
       </a>
     </li>
-    </ol>
+      </ol>
+    </div>
   </div>
+
   <script>
     function toggleTheme() {
       const d = document.documentElement;
-      const current = d.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
+      const next = d.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
       d.setAttribute('data-theme', next);
       localStorage.setItem('theme', next);
     }
     (function() {
-      const saved = localStorage.getItem('theme') || 'light';
+      const saved = localStorage.getItem('theme') || 'dark';
       document.documentElement.setAttribute('data-theme', saved);
     })();
   </script>
