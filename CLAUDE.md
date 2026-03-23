@@ -82,3 +82,7 @@ Three independent reviewers check the draft:
 ## File Saving Rule
 
 **Every agent MUST use the Write tool to save files to disk.** Printing chapter text in the conversation is not saving. After every file is written, commit it with git.
+
+## Publishing Rule
+
+**After every commit, push to origin AND ensure `Main` is up to date.** The site at `https://granqvistsanna-web.github.io/wish/` is built from the `Main` branch (`/docs`). The latest version of the manuscript must always be visible on the site. If working on a different branch, merge or fast-forward `Main` to include the new commits after pushing.
