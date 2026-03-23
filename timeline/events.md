@@ -19,6 +19,23 @@
 
 ## Story Events
 
+### Chapter 4 — "Noder" (Day 5 → Night into Day 6)
+
+| When | Event | Characters Involved | Location | Significance |
+|------|-------|---------------------|----------|--------------|
+| 05:38, Day 5 | Amma begins hand-mapping routing architecture in control room | Amma | Control room | Third consecutive early morning shift. Methodical approach: digital topology + official blueprints + hand-drawn map layer by layer. Karin delivers coffee without comment (second time in three days). |
+| Morning, Day 5 | Amma discovers unnamed routing node | Amma | Control room | Official maps 95% accurate. Remaining 5%: one segment marked "decommissioned" is actually active. Activates every night at 03:00 with exact timing. No official name in any register. In Maja's marginal notes: TENESSA. |
+| Morning, Day 5 | Amma assesses implications | Amma | Control room | System was designed invisible — requires technical competence above station level, director-level access, resources, time, and an environment where no one asked questions. Maja asked. |
+| After lunch, Day 5 | Samuel brings signal interference problem to Amma | Amma, Samuel | Control room | Third antenna interference incident that week — structured, recurring, same time interval. Samuel connects it to Maja's final-months reports: "interferensproblem som inte stämde med standardmodellerna." Cuts himself off before completing the thought. |
+| After lunch, Day 5 | Samuel sees Amma's routing diagram | Amma, Samuel | Control room | Screen exits sleep mode for ~0.5 seconds. Unnamed segment visible in yellow. Samuel chooses silence — no reaction, no comment, no change in behavior. His silence is the most significant thing he's done so far. Amma cannot determine his intention. |
+| Late afternoon, Day 5 | Amma meets Cassia in her office | Amma, Cassia | Cassia's office | Amma asks about routing configuration changes. Cassia answers different questions completely — capacity upgrades, certification protocols, political commentary about border stations bearing disproportionate burden. True, irrelevant. Technique Amma recognizes as her own. |
+| Late afternoon, Day 5 | Cassia tests Amma about Maja's logs | Amma, Cassia | Cassia's office | As Amma leaves: Cassia asks about modul 7-12's annotation system. Implies knowledge of Maja's custom notation. Hand moves to desk edge before asking — cost of revealing. Both women now know they are testing each other. Neither acknowledges it. |
+| ~21:00, Day 5 | Amma traces physical cable routing | Amma | Control room | Cables to unnamed node run through inverter building, officially terminate at south wall. Routing signatures show data traffic continuing beyond termination point. Something exists past the wall that isn't on any map. |
+| ~22:00, Day 5 | Amma writes private encrypted log | Amma | Her room | First TENESSA entry in covert log. Deliberately omits: mother, Maja's death, Cassia's knowledge. |
+| 02:47–03:15, Night 5 | Amma observes inverter building at 03:00 | Amma | Her room, window | Direct observation of inverter building south section at activation time. Result: no visible indicator — no light, no sound, no change. Digital activation confirmed, physical manifestation invisible. |
+
+---
+
 ### Chapter 3 — "Tenessa" (Night of Day 2 → Dawn of Day 3)
 
 | When | Event | Characters Involved | Location | Significance |
