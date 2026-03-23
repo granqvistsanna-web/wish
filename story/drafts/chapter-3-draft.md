@@ -232,7 +232,7 @@ I det övre vänstra hörnet av tunnelschemat, i hennes mors handstil — lösar
 
 *Tenessa.*
 
-Inte inristat. Inte hemligstämplat. Bara skrivet, med den hand som hade hållit hennes hand i mörkret och lett hennes fingrar längs upphöjda bokstäver mot en kall metallytan.
+Skrivet med blyerts, i kanten, som vilken arbetsnot som helst — med den hand som en gång hade hållit hennes hand i mörkret och lett hennes fingrar längs upphöjda bokstäver mot en kall metalyta.
 
 Hennes mor kände det här ordet. Hennes mor ritade de här tunnlarna.
 
