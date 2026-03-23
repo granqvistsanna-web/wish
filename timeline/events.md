@@ -19,6 +19,23 @@
 
 ## Story Events
 
+### Chapter 3 — "Tenessa" (Night of Day 2 → Dawn of Day 3)
+
+| When | Event | Characters Involved | Location | Significance |
+|------|-------|---------------------|----------|--------------|
+| 01:12, Night 2 | Amma begins systematic chronological review of Maja's raw maintenance logs | Amma | Archive room | Method: oldest-first, no keyword shortcuts. Reads 8 months of entries. Recognizes Maja's self-designed notation system. |
+| 01:12–~04:00, Night 2 | Amma discovers TENESSA in Maja's logs — 14 occurrences | Amma | Archive room | Word appears 9 times by 6-month mark, 12 by 5-month, 14 total. Handwriting evolves: relaxed pencil → harder pressure → CAPITALS in last 2 months. Maja was frightened. |
+| ~04:00, Night 2 | Amma searches all accessible databases for TENESSA | Amma | Archive room | Official registers: no result. Restricted archive: access denied — word erased from searchable index entirely. One hit: 63-year-old geography archive. "Tenessa Survey Zone, gränssektor, avvecklad." Grid reference points directly beneath Station 7-Syd. File last accessed 22 years ago. |
+| ~04:30, Night 2 | Involuntary body-memory triggered | Amma | Archive room | Fingers trace pendant-letter pattern on table unconsciously. Memory surfaces: mother's hands guiding infant Amma's fingers over metal pendant with raised letters. Amma could not read when this happened — learned the shapes before the alphabet. |
+| ~05:00, Night 2 | Amma goes outside to recalibrate | Amma | Station exterior, no-camera corner | Heat and humidity. Counts breaths (fifteen). Registers the weight of what she suspects without collapsing into it. |
+| ~05:15, Night 2 | Corridor encounter with Samuel | Amma, Samuel | Corridor | Samuel sees her face, pauses. Two-word exchange: "Tidigt" / "Eller sent." He chooses not to ask more. Scar visible above t-shirt. |
+| ~05:30, Night 2 | Samuel leaves food ration outside Amma's door | Samuel, Amma | Corridor / Amma's room | She eats without thanking him. Recognizes the gesture as care-without-demand. Myntplantan on windowsill noted — Maja's plant, Amma waters it. |
+| 06:15, Day 3 | Amma retrieves mother's notebook from equipment case | Amma | Her room | Notebook carried to five assignments. Almost left behind this time. Contains technical drawings: tunnel schematics, depth markers, routing channels. |
+| 06:15–06:42, Day 3 | Amma finds TENESSA in mother's notebook | Amma | Her room | Upper-left corner of tunnel schematic, mother's handwriting. Confirmation: her mother designed the Tenessa infrastructure. The investigation is now personally implicated. |
+| 06:42, Day 3 | Chapter ends — Amma has not sent a report | Amma | Her room | Coordinates transferred from smeared wrist to paper in breast pocket. Station waking around her. |
+
+---
+
 ### Chapter 2 — "Rytm" (Day 2)
 
 | When | Event | Characters Involved | Location | Significance |
