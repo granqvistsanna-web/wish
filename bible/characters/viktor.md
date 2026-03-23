@@ -25,7 +25,6 @@
 ## Röst
 - **Talmönster**: Berättande, stolt. Lite ohyfsade frågor ("Du ser ung ut för att vara tekniker av den graden"). Hör dåligt — komiska missförstånd.
 - **Vokabulärnivå**: Praktisk, arbetarklass
-- **Verbala tics**: Hör fel. Frågar "2?" när Amma säger "8". Upprepar.
 - **Vad han aldrig säger**: Vad han verkligen kände när han hittade Maja (Maja Lindqvist).
 
 ## Relationer
@@ -34,9 +33,6 @@
 - **Relation till Karin**: Kollegialt
 - **Relation till Maja**: Hittade hennes kropp. Bär det.
 
-## Komisk relief
-Viktors dåliga hörsel ger komiska ögonblick:
-- Amma: "Åtta år." Viktor: "Två?" Amma: "Åtta." Viktor: "Sju." Amma: "Nej, åtta." Viktor: "Två?" Amma blir matt.
 
 ## Arc
 - **Börjar som**: Den stolte veteranen

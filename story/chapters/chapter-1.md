@@ -16,7 +16,7 @@ Kvinnan som kliver fram ur skuggan är korthårig och i femtioårsåldern och b�
 
 "Wost. Amma Wost. Energidepartementet."
 
-"Karin." Sedan: "Följ med."
+"Karin." Hon vänder sig utan att vänta. "Följ med."
 
 Amma följer. Karin går fort och lättflödigt, som någon som känt den här marken under fötterna så länge att terrängen blivit en del av kroppen. Sanden knarrar mot gruset vid grindposten. Det är en station som drivs av personer som stannat för länge, det märks redan i sättet Karin rör sig, i den självklara äganderätten till varje yta.
 
@@ -24,15 +24,39 @@ Amma följer. Karin går fort och lättflödigt, som någon som känt den här m
 
 "Södra distriktet. Nära kusten."
 
-En paus. Kortare än den borde vara. Karin stannar inte utan fortsätter mot den närmaste byggnaden, och Amma noterar att frågan hade en specifik funktion och att svaret inte helt uppfyllde den, eller möjligen att det uppfyllde den alltför väl.
+"Kusten." Karin säger det utan att det låter som en fråga, men det är en. "Hur länge sedan?"
+
+"Länge."
+
+"Alla säger länge."
+
+"Fjorton år."
+
+Karin nickar, och det är en nick som registrerar mer än siffran. "Du är ung för att ha fjorton år i systemet."
+
+"Jag började tidigt."
+
+"Det gör man om man inte har val." Karin stannar inte utan fortsätter mot den närmaste byggnaden, och Amma noterar att frågan hade en specifik funktion och att svaret inte helt uppfyllde den, eller möjligen att det uppfyllde den alltför väl.
 
 Inuti är det svalare, betongväggarna håller undan det värsta av solen. En korridor, utskrivna scheman på väggen, en jacka på en krok. Det luktar damm och rengöringsmedel och något svagt organiskt under det. Karin stannar vid ett litet bord och tar upp en rund knapp, inte mer än en centimeter i diameter, med en grön LED på ena sidan.
 
 "Assistenten", säger hon och räcker den åt Amma. "Bär den."
 
-"Vad gör den?"
+Amma håller den i handen. Den är lätt, nästan ingenting. "Vad gör den?"
 
-"Larmar om du ramlar. Hälsodata. Nätverksanslutning." Karin vänder bort blicken. "Alla bär en."
+"Larmar om du ramlar. Hälsodata. Nätverksanslutning."
+
+"Vem läser datan?"
+
+"Systemet."
+
+"Vilket system?"
+
+Karin tittar på henne för första gången sedan de gick in, en blick som varar knappt en sekund men som innehåller en sorts omvärdering. "Stationens nätverk. Samuel sköter det. Fråga honom om du vill veta mer."
+
+"Det behövs inte. Jag var bara nyfiken."
+
+"Nyfiken", säger Karin, som om hon smakade på ordet och inte var övertygad.
 
 Amma fäster knappen på sin kavajrevär. Hon noterar att Karins krage är tom, men säger ingenting om det, för det är den typen av observation som inte tjänar något syfte att uttala, åtminstone inte ännu.
 
@@ -44,13 +68,23 @@ De går vidare till rummet vid norra väggen. Säng, bord, fönster mot solpanel
 
 Torr mynta, från en liten planta i fönsterkarmen. Amma säger det för att det är sant, men också för att se hur Karin reagerar, vilket är en vana hon har och som ibland ger henne information och ibland bara gör folk obekväma.
 
-Karin stannar i dörröppningen.
+Karin stannar i dörröppningen. Axlarna sjunker en halv centimeter, inte av trötthet utan av något annat.
 
-"Maja satte dit den." En paus. "Jag skulle kanske inte nämna för de andra att du kommer från fel sida muren."
+"Maja satte dit den."
+
+"Förra teknikern."
+
+"Ja."
+
+"Sju år, sa du."
+
+"Det sa jag inte. Det sa Viktor, antagligen, eller Samuel. Alla säger det." Karin lägger handen på dörrkarmen. "Jag skulle kanske inte nämna för de andra att du kommer från fel sida muren."
 
 Amma håller blicken kvar. "Vilket fel?"
 
-Karin svarar inte. Dörren stängs.
+"Det finns bara ett." Karin ser ut som om hon ska säga något mer. Hon gör det inte. "Ingen här bryr sig om var folk kommer ifrån, men de bryr sig om att det är en hemlighet."
+
+Dörren stängs.
 
 Amma står kvar i rummet. Frågan hade kommit från Karin, till att börja med. "Södra distriktet, nära kusten" räcker inte för den som känner igen tonfallet, ordvalet, de spår som trettiofem år på fel sida lämnar i sättet man bär sig, i vokaler som inte helt följer den officiella dialekten, i pauser som faller på fel ställe. Karin hade frågat. Amma hade inte ljugit tillräckligt, eller hade ljugit precis tillräckligt för att markera att hon ljög, vilket antingen var ett misstag eller en sorts test hon genomförde på sig själv utan att ha bestämt det i förväg.
 
@@ -62,13 +96,19 @@ Viktor hittar henne vid det nordöstra hörnet.
 
 Han är runt sextio, med vita mustascher och ett leende som sitter lätt på läpparna. Händerna darrar lite, mer än åldern rimligen förklarar, och han sträcker fram höger för att skaka hennes med en sorts ceremoniell entusiasm som antagligen fungerat väl socialt i trettio år.
 
-"Viktor. Jag byggde det mesta av det du ser. Med dessa händer. Det var sand och vind och getter när vi kom hit. Nu, tretton procent av frontens energiförsörjning."
+"Viktor. Jag byggde det mesta av det du ser. Med dessa händer." Han håller upp dem, och darrningen syns tydligt i solljuset men han verkar inte registrera det, eller registrerar det och har för länge sedan bestämt att det inte hör till berättelsen. "Det var sand och vind och getter när vi kom hit. Nu, tretton procent av frontens energiförsörjning."
 
 "Imponerande."
 
-"Verkligen."
+"Verkligen." Han nickar åt sitt eget påstående. "Departementet skickade två ingenjörer den första vintern. Två. Jag och Gaspar. Gaspar höll tre månader, sedan ville han tillbaka till kontoret. Jag byggde resten själv."
 
-Han verkar inte höra tonfallet, eller hör det och väljer att ignorera det, vilket i praktiken är samma sak. "Hur länge har du jobbat inom tekniken?"
+"Ensam?"
+
+"Med Karin. Hon kom året efter. Och lokala arbetare, men de stannade aldrig länge, det var innan stationen hade bostäder. Man sov i containrar." Han lutar sig framåt, med en mans iver att fortsätta berätta. "Vet du hur man grundlägger en solpanel i sand som rör sig åtta centimeter per år?"
+
+"Nej."
+
+"Det vet ingen. Det är problemet. Man lär sig." Han skrattar kort, ett skratt som innehåller minst tjugo års avstånd till obehaget det en gång beskrev. "Hur länge har du jobbat inom tekniken?"
 
 "Åtta år."
 
@@ -84,6 +124,10 @@ Viktor rör vid örat, skakar lätt på huvudet. "Två?"
 
 Amma blundar en halv sekund. Det finns en specifik form av tålamod som krävs för att upprepa information till någon vars kropp aktivt motarbetar kommunikation, och hon har inte helt tillgång till den just nu, men hon anstränger sig.
 
+"Åtta", säger hon, tydligare.
+
+"Ah. Åtta." Viktor nickar som om det vore hans eget förslag. "Då vet du hur det är. Man börjar med att vilja förändra saker, och sedan förändrar sakerna en istället."
+
 Han viker undan kragen och visar sin assistentknapp: grön LED mot det röda arket hud vid halsen. "Bär du assistenten?"
 
 "Ja."
@@ -98,81 +142,83 @@ De stannar vid den nordvästra väggen i skugga. Viktor torkar svetten från pan
 
 "Den förra teknikern", säger han. Rösten förändras inte mycket. "Maja. Sju år hos oss." Hans händer stannar. Skakningarna upphör ett ögonblick, som om kroppen tillfälligt glömmer sin egen rytm. "Hon kontrollerade allting tre gånger. Metodisk." En paus. "Ändå."
 
-Han fyller inte i meningen. Torkar om pannan och nickar mot byggnaden.
+Han fyller inte i meningen.
+
+"Vad hände?"
+
+"Olycka." Han säger det som man säger ett ord man övat på. "Vid modulen. Ensam. Det är allt som står i rapporten och det är allt jag vet."
+
+Det sista är inte sant, tänker Amma, eller det är sant på det sättet att han bestämt sig för att det ska vara sant, och skillnaden har med tiden suddats ut.
+
+"Saknar du henne?"
+
+Viktor torkar pannan. Blicken flackar mot solpanelerna, sedan tillbaka. "Man saknar folk annorlunda härutifrån. Där du kommer ifrån, södra distriktet, det finns andra att prata med. Här finns det oss." Han gör en gest som omfattar stationen, öknen, horisonten. "Maja kände alla system bättre än jag. Hon lärde sig grunderna på en månad, och resten tog hon själv. Ibland ville jag förklara något och hon hade redan löst det."
+
+Han skrattar kort och det är inte ett roligt skratt.
 
 "Middag sjutton. Karin lagar. Kom i tid."
 
 ---
 
-Middagen äts vid ett långt träbord i ett rum med högt tak och fläckar av fukt i ena hörnet. Amma kommer in för tidigt och får sitta och se de andra anlända, vilket ger henne exakt den typ av observationsposition hon föredrar och som hon vet att hon föredrar och som hon ibland misstänker att hon söker upp för att slippa delta.
+Middagen äts vid ett långt träbord i ett rum med högt tak och fläckar av fukt i ena hörnet. Amma kommer in för tidigt, vilket ger henne den typ av observationsposition hon föredrar och som hon ibland misstänker att hon söker upp för att slippa delta.
 
-Li kommer först. Mörka drag, stram hårknut. Hon fyller tallriken och sätter sig utan att titta upp. Under hela middagen säger hon inte ett ord, och det är oklart om detta är personlighet eller protest eller bara vana, och Amma bestämmer sig för att det förmodligen är alla tre.
-
-Tvillingarna kommer tillsammans. De liknar varandra på ett sätt som tar ett ögonblick att se förbi: Elias lite smalare i ansiktet, Nora med mörkare hår. Båda bär assistentknapp. Elias nickar åt Amma. Nora nickar. Sedan sätter de sig bredvid varandra och kommunicerar med ett tyst, kroppsligt språk, Nora lägger ner gaffeln exakt när Elias höjer sin, som om de delar en gemensam motorik fördelad på två kroppar.
-
-Viktor sätter sig med ett knarrande.
-
-Samuel kommer in med skjortan fastnad i dörrhandtaget. Han frigör sig utan att märka det och är mitt i en mening, "varför kommunikationssystemet beter sig som ett dåligt humörat barn varje gång vindarna ändrar riktning, och är det någon som lyssnar? Nej", och det är uppenbart att detta är en person som pratar som en sorts omgivningsbrus, inte nödvändigtvis för att bli hörd utan för att fylla det utrymme som annars skulle kräva att han var tyst, vilket kanske vore värre. Kragen faller öppen när han gestikulerar. Ett blekt ärr löper från halsen ner över axeln, gammalt och läkt. Amma ser det och vänder bort blicken, för det är den sortens detalj som inte bör registreras öppet.
-
-Samuel kastar ett ögonkast runt bordet, stannar vid Amma. "Nytt ansikte." Han sätter sig. "Samuel. Kommunikationssystem. Sex år." Han ler snett. "Vad gör du?"
-
-"Teknisk inspektör. Energidepartementet."
-
-"Wost", säger Karin, utan att titta upp.
-
-"Det räcker med ett namn." Samuel lutar sig framåt. "Vad undersöker du?"
-
-"Underhåll. Allmänt."
-
-"Modul 7-12."
-
-Inte en fråga. Amma tittar på honom. Han möter blicken, och det finns något i hans ansikte som inte stämmer med den övriga framtoningen, en uppmärksamhet som inte hör ihop med pratigheten, och hon justerar sin bedömning av honom ett halvt steg uppåt.
-
-"Bland annat."
-
-Samuel nickar en gång, som om hon bekräftat något han redan visste, och vänder sig mot Viktor. "Och som jag sade om sydsystemet—"
-
-Viktor hör fel på fyra av sex ord. Konversationen rör sig vidare utan Amma, och hon är tacksam för det, för hon har fått mer information under de senaste trettio sekunderna än under hela rundturen med Viktor.
+Det är sex personer runt bordet när hon sätter sig, och det hade lika gärna kunnat vara sex andra. Hon har sett den här middagen förut, på tre andra stationer, i två läger och en gång på ett tillfälligt kontor utanför gränszonen. Samma stela samexistens, samma tallrikar som fylls utan kommentarer. Folk som arbetat för nära varandra för länge för att fortfarande ha något att säga, men som ändå sitter vid samma bord för att alternativet — att äta ensam — vore ett sorts uttalande ingen vill göra. De nickar åt henne, ett par av dem, på det sätt man nickar åt en person vars relevans man ännu inte fastställt. Viktor sätter sig bredvid henne med ett knarrande och börjar en utläggning om grundvattennivåerna som ingen ber om.
 
 Karin sätter ner en tallrik framför henne. "Ät."
 
 Amma äter.
 
-Viktor är mitt i en utläggning om grundvattennivåerna, det har blivit en monolog nu, Samuel nickar mekaniskt, när dörren öppnas.
+Det hade varit enklare om hon bara var tekniker. Tre veckor, en rapport, ett handslag med handläggaren, och sedan kanske äntligen den kontorsbaserade tjänsten hon letat efter i två år, något stabilt, utan fältarbete, utan att vakna i rum som luktar av föregångaren och utan att sitta vid bord som detta och katalogisera främlingar som datapunkter. Men hon är inte bara tekniker, och det gör varje middag till ett arbetspass. Varje blick hon möter är en möjlig risk. Varje tystnad en signal. Det är utmattande, har alltid varit utmattande, och det är det enda sättet hon vet att vara i ett rum med människor hon inte känner.
 
-Den unge mannen som kommer in sätter sig utan att hälsa. Karin lägger ner en tallrik framför honom utan att fråga. Mörklagd, stram muskulatur, händer grova med lila märken under naglarna. Han äter snabbt och tyst. Ingen presenterar honom. Ingen säger hans namn. Det finns en tomhet runt honom vid bordet som inte är fysisk utan social, en yta de andra viker undan från utan att det syns.
+Det hon vet är detta: produktionsavvikelsen i modul 7-12 rapporterades inte förrän efter att en tekniker dött. Det finns inget trivialt sätt att förklara det, och det är därför de skickade henne istället för en servicetekniker, och det är därför hon sitter vid det här bordet och registrerar vilka som pratar och vilka som inte gör det. Om rapporten är ren åker hon hem. Om rapporten inte är ren åker hon också hem, bara med mer pappersarbete, och kanske hamnar någon i knipa, och kanske inte, för det händer sällan, inte egentligen, inte med stationer som producerar tolv procent av frontens energi och som ingen har råd att stänga ner oavsett vad som hänt.
+
+En man vid hörnet har pratat sedan hon satte sig, skjortan lös vid kragen, ett blekt ärr nedåt halsen. Han gestikulerar mot saker ingen ser och det är uppenbart att han pratar som en sorts omgivningsbrus, inte för att bli hörd utan för att fylla det utrymme som annars skulle kräva att han var tyst. Han kastar ett ögonkast runt bordet, stannar vid Amma.
+
+"Nytt ansikte." Han sätter sig tyngre i stolen. "Samuel. Vad gör du?"
+
+"Teknisk inspektör. Energidepartementet."
+
+"Wost", säger Karin, utan att titta upp.
+
+"Energidepartementet." Samuel lutar sig framåt. "Vi har inte haft besök på, vad, fjorton månader?"
+
+"Sexton", säger Karin.
+
+"Och nu skickar de en inspektör. Inte en servicetekniker, inte en budgetrevisor. En inspektör." Han vänder sig mot Amma igen. "Vad undersöker du?"
+
+"Underhåll. Allmänt."
+
+"Modul 7-12."
+
+Inte en fråga. Det finns något i hans ansikte som inte stämmer med den övriga framtoningen, en uppmärksamhet som inte hör ihop med pratigheten, och hon justerar sin bedömning av honom ett halvt steg uppåt.
+
+"Bland annat."
+
+Det är det hon alltid säger. Bland annat. Allmänt underhåll. En inspektion som vilken annan. Formuleringar som fungerar för att de inte innehåller någonting, och det som inte innehåller någonting kan inte heller motsägas, och den principen har hållit henne i åtta år och kommer att hålla henne i tre veckor till. Sedan rapport inlämnad, handläggare tillfreds, och kanske, om hon har tur, aldrig mer ett bord som detta.
+
+Samuel lutar sig tillbaka och vänder sig mot Viktor. Konversationen rör sig vidare utan henne, och hon är tacksam för det.
+
+En ung man kommer in sent och sätter sig utan att hälsa. Karin lägger ner en tallrik framför honom utan att fråga. Händer grova med lila märken under naglarna. Han äter snabbt och tyst. Ingen presenterar honom. Det finns en tomhet runt honom vid bordet som inte är fysisk utan social, en yta de andra viker undan från utan att det syns.
 
 Han tittar på Amma en gång, snabbt, och sedan bort.
 
-Viktor tar sats för ytterligare en runda om grundvattnet.
-
-"Hur länge blir du?" säger den unge mannen. Inte till Viktor. Till Amma.
-
-Alla runt bordet blir en aning stillare. Det är subtilt, men Amma har tillbringat åtta år med att registrera exakt den typen av förändring i rum, och hon registrerar den nu.
+"Hur länge blir du?" Inte till Viktor, som pratar. Till Amma.
 
 "Tre veckor. Kanske."
 
-Han drar ner en bit bröd från kannan och svarar inte direkt. Sedan, utan att titta upp: "Maja höll ut sju år."
+Han drar ner en bit bröd och svarar inte direkt. Sedan, utan att titta upp: "Maja höll ut sju år."
 
 Ingenting i rösten. Inget svar begärt. Han fortsätter äta.
-
-Amma håller tallriken.
 
 "Tal. Det räcker", säger Karin.
 
 Tal drar på axlarna. Tillräckligt litet för att kunna förnekas.
 
----
+Amma håller tallriken och tänker: det är sju personer och en död tekniker och en modul som inte fungerar, och det borde räcka, det borde vara allt hon behöver veta för att göra sitt jobb och åka härifrån, men det är aldrig allt, det är det aldrig.
 
-Hon känner det i Viktor först. Han sätter ner gaffeln mitt i en mening och riktar sig mot dörren, hela kroppen, inte bara blicken.
-
-Li lyfter blicken från tallriken, det enda tillfället under hela middagen.
-
-Tvillingarna sitter rakare.
+Hon känner det i Viktor först. Han sätter ner gaffeln mitt i en mening och riktar sig mot dörren, hela kroppen, inte bara blicken. Runt bordet sitter folk rakare.
 
 Cassias ansikte stämmer inte med fotografierna, vilket Amma förväntat sig, för fotografier av den typen är alltid redigerade för att visa symmetri och kontroll. Ansiktet framför henne har djupare linjer, ett ärr vid ögonbrynet som skuggats bort i varje officiell bild. Munnen är bredare än den borde vara. Långt lockigt hår som grånar vid tinningarna, löst upplagt. Det är ett ansikte som har kostat något att underhålla i offentligheten, och som i privat sammanhang tillåter sig att se annorlunda ut, och Amma undrar vilken version hon får se nu och varför.
-
-Ljusa ögon som går runt bordet. Viktor. Karin. Li. Tvillingarna. Samuel, som faktiskt tystnar. Sedan Amma.
 
 "Du är Wost."
 
@@ -180,25 +226,31 @@ Ljusa ögon som går runt bordet. Viktor. Karin. Li. Tvillingarna. Samuel, som f
 
 "Cassia. Stationsföreståndare." Hon drar ut stolen mitt emot och sätter sig. Ingen bråska. "Jag är glad att du är här."
 
-Det är inte sättet man säger det till en inspektör. En inspektör är en kontrollinstans, inte en gäst, och gladhet är inte den konventionella responsen. Amma håller leendet på rätt ställe. "Tack."
+Det är inte sättet man säger det till en inspektör. En inspektör är en kontrollinstans, inte en gäst, och gladhet är inte den konventionella responsen. Amma håller leendet på rätt ställe och tänker att den här kvinnan är ett hinder hon inte planerat för, en variabel som gör den rena rapporten svårare, och att det hade varit enklare om stationsföreståndaren varit en byråkrat som gick att kategorisera och avfärda. "Tack."
 
-"Vi har väntat en tid på den här besiktningen." Cassia tar sin tallrik och kommer igång med maten. "Den förra teknikern hade en olycka. Vi har gjort vad vi kan sedan dess."
+"Har du fått se stationen?"
+
+"Viktor visade mig runt."
+
+"Då vet du mer om grundvattennivåerna än någon behöver veta." Cassia säger det med en värme som inkluderar Viktor utan att förminska honom, och Amma registrerar det som en sorts social precision som kräver övning eller talang. "Vi har väntat en tid på den här besiktningen."
+
+"Den förra teknikern hade en olycka. Vi har gjort vad vi kan sedan dess, men det finns gränser för vad vi kan diagnostisera med den utrustning vi har."
 
 En sekund utan rörelse runt bordet. Det är den sortens sekund som avslöjar att alla i rummet har en gemensam version av vad som hände och att den versionen inte nödvändigtvis är den officiella.
 
 "Maja hette hon", säger Cassia. "Sju år hos oss."
 
-Viktor sätter ner gaffeln. Metall mot trä.
+Amma hade kunnat låta det passera. Det hade varit det professionella, det som inte skapar komplikationer. Men en inspektör som inte frågar om en arbetsplatsolycka är en inspektör som inte gör sitt jobb, och att inte göra sitt jobb är en sorts synlighet hon inte har råd med.
 
-Samuel öppnar munnen och stänger den igen.
+"Vad var det för olycka?"
 
-Li äter vidare.
+"Elektrisk. Vid modulens bas. Vi hittade henne på morgonen." Cassia skär upp sitt bröd i jämna bitar. "Rapporten beskriver förloppet. Du har den, antar jag."
 
-Tal lyfter inte blicken från tallriken men hans käke spänns.
+"Jag har den."
 
-Cassia skär upp sitt bröd i jämna bitar. "Rapporter är alltid sanna i vad de beskriver", säger hon. "Det de inte beskriver är svårare."
+"Rapporter är alltid sanna i vad de beskriver", säger Cassia. "Det de inte beskriver är svårare."
 
-Amma äter sin mat och säger ingenting, för det är en mening som kräver ett svar och hon tänker inte ge det, inte här, inte inför alla, och hon noterar att Cassia verkar helt tillfreds med tystnaden, vilket gör henne svårare att läsa.
+Amma äter sin mat och säger ingenting, för det är en mening som kräver ett svar och hon tänker inte ge det, inte här, inte inför alla. Tre veckor. En rapport. Ett skrivbord. Det är allt hon vill ha, och det borde inte vara svårt, och det faktum att det redan känns svårt är i sig en sorts information hon inte vet vad hon ska göra med.
 
 ---
 
@@ -218,11 +270,23 @@ Cassia står bredvid henne. Tre steg bort, kanske fyra. Amma vet inte exakt när
 
 "Det stör mig inte."
 
-Cassia tittar mot solpanelerna, den mörknade horisonten. Ingen av dem säger något. Det är en sorts test, tänker Amma, eller inte ett test, men en social kalibrering, ett sätt att etablera vilken typ av tystnad som är möjlig mellan dem, och hon låter det pågå för att hon inte har bestämt sig för vad hon vill att det ska bli.
+"Det sa Maja också, de första veckorna. Sedan bad hon honom." Cassia ler svagt. "Viktor gillar att bli ombedd. Det ger honom något att lösa."
 
-"Myntan i ditt rum", säger Cassia sedan. "Maja satte dit den."
+"Du känner din personal."
+
+"Jag har sju personer att känna. Det är inte svårt." Cassia tittar mot solpanelerna, den mörknade horisonten. "I Capitol hade jag trehundra. Man lär sig ingenting av trehundra människor utom att de flesta ljuger om övertid."
+
+"Du har jobbat i Capitol."
+
+"Alla har jobbat i Capitol, eller för Capitol, eller trots Capitol. Det finns inga andra alternativ, eller hur." Det är inte bittert. Det är en observation, en konstaterad geografi, och Amma registrerar att Cassia talar om maktstrukturer på det sätt man talar om väder — som något man navigerar, inte förändrar.
+
+Ingen av dem säger något på ett tag. Det är en sorts test, tänker Amma, eller inte ett test, men en social kalibrering, ett sätt att etablera vilken typ av tystnad som är möjlig mellan dem, och hon låter det pågå för att hon inte har bestämt sig för vad hon vill att det ska bli.
+
+"Myntan i ditt rum", säger Cassia sedan. "Maja satte dit den. Hon odlade mynta i alla rum hon bott i. Det var hennes sak."
 
 Amma säger ingenting.
+
+"Man gör saker härutifrån som man inte skulle göra i en stad. Sätter plantor i fönster. Lagar mat åt folk. Stannar uppe med någon som inte kan sova." Cassia talar som om hon listar fakta, inte som om hon beskriver en förlust. "Det blir personligt snabbare än man tror."
 
 "Amma."
 
@@ -233,6 +297,14 @@ Cassia vänder sig mot henne. Ögonen går direkt till Ammas och stannar. Det fi
 En paus, ett andetag lång.
 
 "Kom till mig. Innan du lämnar in rapporten."
+
+"Varför?"
+
+"För att jag kan förklara saker som rapporten inte kan."
+
+"Och om förklaringen inte räcker?"
+
+Cassia tittar på henne utan att blinka. "Då vet vi båda var vi står."
 
 "Självklart", säger Amma. Det enda möjliga svaret, och hon ger det med exakt rätt grad av professionell tillmötesgående, och hon vet att hon ger det med exakt rätt grad av professionell tillmötesgående, och hon undrar om Cassia också vet det.
 

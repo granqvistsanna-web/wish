@@ -142,7 +142,6 @@ Om romanen inkluderar mejl, meddelanden eller annan skriftlig kommunikation mell
 - Inga skurkar, inga hjältar. Alla är komprometterade. Alla har rimliga motiveringar för orimligt beteende.
 - Inga expositionsdumpar — inte ens eleganta. Om läsaren inte förstår världen ännu, fine. De kommer ikapp genom ackumulerad social detalj.
 - Inga dramatiska scenslut. Kapitel kan sluta på en logistisk detalj, en vilsen tanke, en obesvarad fråga.
-- Inga förklarande negationstripler. Konstruktioner som "inte X, inte Y, bara Z" — där berättaren reder ut en känsla eller ett tillstånd genom att först utesluta alternativ och sedan leverera den "rätta" tolkningen — är analytiskt överskott. De talar om för läsaren vad något *inte* är innan de säger vad det är, och det är en form av övertydlighet. Visa tillståndet direkt. Lita på att läsaren förstår.
 - Ingen sentimentalitet kring samhörighet. Kärlek, vänskap, solidaritet — de är verkliga, men prosan närmar sig dem med analytisk precision. Samhörighet är inte frälsning.
 - Ingen narrativ distans under smärtsamma ögonblick. Stanna nära. Stanna i karaktärens huvud. Obehaget utför arbetet.
 - Inget förundran. Karaktärerna förundras inte över de spekulativa elementen i sin värld. De lever i den. Reservera förundran för det genuint mellanmänskliga — chocken i att bli känd av en annan människa.
