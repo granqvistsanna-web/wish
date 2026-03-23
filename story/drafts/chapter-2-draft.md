@@ -84,17 +84,7 @@ Viktor var en god guide. Han berättade om modul tre med ägarens precision — 
 
 "Du vet din sak", sa han.
 
-"Åtta år."
-
-Viktor lutade huvudet. "Fyra?"
-
-"Åtta."
-
-"Sju?"
-
-"Åtta. Åtta år."
-
-Han rörde vid örat med en förströdd gest och fortsatte utan att kommentera felet. Hans händer darrade svagt som vanligt, den där ojämna rytmen i fingrarna. "Maja var likadan. Teknisk in i märgen." Händerna lade sig platt mot modulens plåtvägg och darrningen upphörde. "Hon lärde mig mer än jag lärde henne mot slutet."
+Amma sa något om kopplingarna i pumpcirkeln, men Viktor hade redan vänt sig mot modulväggen och pratade vidare som om hon inte sagt det. Hans händer darrade svagt som vanligt, den där ojämna rytmen i fingrarna. "Maja var likadan. Teknisk in i märgen." Händerna lade sig platt mot plåten och darrningen upphörde. "Hon lärde mig mer än jag lärde henne mot slutet."
 
 Amma antecknade: *Viktor: Maja har inte blivit ett förflutet för honom. Han pratar om henne i presens.*
 
