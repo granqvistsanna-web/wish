@@ -2,9 +2,15 @@
 
 Bilen stannade. Amma öppnade dörren.
 
-Värmen slog mot henne direkt. Inte som Capitols sommarhetta, tung och fuktig och inbäddad i kläder, utan som en ugn som aldrig stängts av. Torr. Absolut. Läpparna stelnade vid kontakten med luften. Solljuset reflekterades i solpanelernas glas och skar in från alla vinklar på en gång. Hon kröp ihop en sekund, sedan: *Amma Wost. Teknisk inspektör, Energidepartementet, underhållsenheten. Besiktning av modul 7-12. Det är allt du är.*
+Värmen slog mot henne direkt. Torr, som en ugn som aldrig stängts av. Läpparna stelnade vid kontakten med luften. Solljuset reflekterades i solpanelernas glas och skar in från alla vinklar på en gång. Hon kröp ihop en sekund, sedan: *Amma Wost. Teknisk inspektör, Energidepartementet, underhållsenheten. Besiktning av modul 7-12. Det är allt du är.*
 
 Det var lite av ingenting. Det räckte.
+
+Tre veckor. Kanske två om felet var trivialt och hon hade tur. Sedan rapport inlämnad, officer tillfreds, och hon kanske äntligen i läge att söka en ny position. Något stabilt, kontorsbaserat, långt från fronten. Hon hade blivit agent för att göra skillnad och istället tillbringat åtta år med att se elände och rapportera det i standardformulär. Det var sällan det man föreställt sig.
+
+Kontoret hade löst problemet på det sätt kontor löser problem.
+
+Tre veckor. Hon klarade tre veckor.
 
 Station 7-Syd var fyra vita byggnader mot en blek himmel, med rader solpaneler som sträckte sig mot norr i ett mönster som erinrade om ett fält. Bakom byggnaderna reste sig de tolv modulerna. De stora energiomvandlarna med sina rör och ventiler. Elva av dem stod i en prydlig rad.
 
@@ -14,7 +20,7 @@ Amma tittade på den i tre sekunder. Sedan lyfte hon väskan med vänster hand o
 
 ---
 
-Kvinnan som klev fram ur skuggan var korthårig och femtioårsåldern och bar armarna i kors — inte defensivt, bara en position. Bomullsskjorta en gång vit. Ögon som gick snabbt och effektivt över Ammas ansikte, händer, kropp.
+Kvinnan som klev fram ur skuggan var korthårig och femtioårsåldern och bar armarna i kors. Bomullsskjorta en gång vit. Ögon som gick snabbt och effektivt över Ammas ansikte, händer, kropp.
 
 "Tekniker?"
 
@@ -38,7 +44,7 @@ Inuti var det svalare, betongväggarna höll undan det värsta av solen. En korr
 
 "Larmar om du ramlar. Hälsodata. Nätverksanslutning." Karin vände bort blicken. "Alla bär en."
 
-Amma fäste knappen på sin kavajrevär och märkte att Karin inte hade en.
+Amma fäste knappen på sin kavajrevär. Karins krage var tom.
 
 De gick vidare till rummet vid norra väggen. Säng, bord, fönster mot solpanelerna. En lös stol.
 
@@ -46,19 +52,19 @@ De gick vidare till rummet vid norra väggen. Säng, bord, fönster mot solpanel
 
 "Det luktar mynta härinne."
 
-Det var sant. Svagt men verkligt — torr mynta, från en liten planta i fönsterkarmen. En av de ofarliga sanningarna, de Amma höll i beredskap: något verkligt, något litet, något som skapade kontakt utan att kosta något.
+Torr mynta, från en liten planta i fönsterkarmen.
 
-Karin vände sig om. Stod stilla ett ögonblick.
+Karin stannade i dörröppningen.
 
-"Sellen odlade den", sa hon. "Fönsterkarmen." Utan paus, med precis samma tonläge: "Jag skulle kanske inte nämna för de andra att du kommer från fel sida muren."
+"Maja satte dit den." En paus. "Jag skulle kanske inte nämna för de andra att du kommer från fel sida muren."
 
 Amma höll blicken kvar. "Vilket fel?"
 
-Karin svarade inte. Vände sig och gick.
+Karin svarade inte. Dörren stängdes.
 
----
+Amma stod kvar i rummet. Det var Karin som hade frågat, till att börja med. "Södra distriktet, nära kusten" räckte inte för den som kände igen tonfallet, ordvalet, de osynliga spåren som trettiofem år på fel sida lämnat i sättet hon bar på sig. Karin hade frågat. Amma hade inte ljugit tillräckligt.
 
-Amma satte sig på sängkanten ett ögonblick. Stod sedan upp, hängde väskan på kroken, och gick ut för att lära sig anläggningens geografi.
+Hon hängde väskan på kroken och gick ut för att lära sig anläggningens geografi.
 
 ---
 
@@ -82,9 +88,13 @@ Viktor lutade huvudet. "Två?"
 
 "Nej. Åtta."
 
-"Två?" Han rörde vid örat, skakade på huvudet. "Bär du assistenten?"
+Viktor rörde vid örat, skakade lätt på huvudet. "Två?"
 
-Han vek undan kragen och visade sin: grön LED mot det röda arket hud vid halsen. Amma fäste knappen på sin kavaj och nickade.
+Amma blundade en halv sekund.
+
+Han vek undan kragen och visade sin assistentknapp: grön LED mot det röda arket hud vid halsen. "Bär du assistenten?"
+
+"Ja", sa Amma.
 
 Det visade sig att Viktor hade en fast tur.
 
@@ -92,11 +102,11 @@ Han visade henne modul tre, modul sju, pumphuset, det norra växthuset och desti
 
 Han ledde henne inte till modul 7-12.
 
-Möjligen oavsiktligt. Amma antecknade det.
+Möjligen oavsiktligt.
 
 De stannade vid den nordvästra väggen i skugga. Viktor torkade svetten från pannan.
 
-"Den förra teknikern", sa han. Rösten förändrade inte mycket. "Sellen. Sju år hos oss." Hans händer stannade. Inte länge, bara ett ögonblick. Skakningarna upphörde som om de glömt sig. "Han kontrollerade allting tre gånger. Metodisk." En paus. "Ändå."
+"Den förra teknikern", sa han. Rösten förändrade inte mycket. "Maja. Sju år hos oss." Hans händer stannade. Skakningarna upphörde ett ögonblick, som om de glömt sig. "Hon kontrollerade allting tre gånger. Metodisk." En paus. "Ändå."
 
 Han fyllde inte i meningen. Torkade om pannan och nickade mot byggnaden.
 
@@ -112,23 +122,23 @@ Tvillingarna kom tillsammans. De liknade varandra på ett sätt som tog ett ögo
 
 Viktor satte sig med ett knarrande.
 
-Samuel kom in med krokskaftet av skjortan fastnat i dörrhandtaget. Han frigjorde sig utan att märka det och var mitt i en mening — "—varför kommunikationssystemet beter sig som ett dåligt humörat barn varje gång vindarna ändrar riktning, och är det någon som lyssnar? Nej" — och hans skjortkrage föll öppen när han gestikulerade, och Amma såg det: ett blekt ärr som löpte från halsen ner över axeln, gammalt och läkt men synligt mot skinnet.
+Samuel kom in med skjortan fastnad i dörrhandtaget. Han frigjorde sig utan att märka det och var mitt i en mening — "—varför kommunikationssystemet beter sig som ett dåligt humörat barn varje gång vindarna ändrar riktning, och är det någon som lyssnar? Nej" — och kragen föll öppen när han gestikulerade. Ett blekt ärr löpte från halsen ner över axeln, gammalt och läkt.
 
-Hon märkte det. Arkiverade det. Vände bort blicken.
+Amma vände bort blicken.
 
-Samuel kastade ett ögonkast runt bordet, stannade vid Amma. "Nytt ansikte." Han satte sig. "Samuel. Kommunikationssystem. Sex år." Det sneda leendet, ett slag till vänster, nådde inte ögonen. "Vad gör du?"
+Samuel kastade ett ögonkast runt bordet, stannade vid Amma. "Nytt ansikte." Han satte sig. "Samuel. Kommunikationssystem. Sex år." Han log snett. "Vad gör du?"
 
 "Teknisk inspektör. Energidepartementet."
 
 "Wost", sa Karin, utan att titta upp.
 
-"Det räcker med ett namn." Samuel fäste blicken på Amma med ett intresse lätt att missa bakom pratigheten. "Vad undersöker du?"
+"Det räcker med ett namn." Samuel lutade sig framåt. "Vad undersöker du?"
 
 "Underhåll. Allmänt."
 
 "Modul 7-12."
 
-Inte fråga. Amma tittade på honom. Han mötte blicken — ögonen räknade, stilla och metodiska bakom munvigheten.
+Inte fråga. Amma tittade på honom. Han mötte blicken.
 
 "Bland annat", sa hon.
 
@@ -140,6 +150,32 @@ Karin satte ner en tallrik framför henne. "Ät."
 
 Amma åt.
 
+Viktor var mitt i en utläggning om grundvattennivåerna — det hade blivit en monolog nu, Samuel nickade mekaniskt — när dörren öppnades.
+
+Den unge mannen som kom in satte sig utan att hälsa. Karin lade ner en tallrik framför honom utan att fråga. Mörklagd, stram muskulatur, händer grova med lila märken under naglarna. Han åt snabbt och tyst.
+
+Ingen presenterade honom. Ingen sa hans namn.
+
+Han tittade på Amma en gång, snabbt, och sen bort.
+
+Viktor tog sats för ytterligare en runda om grundvattnet.
+
+"Hur länge blir du?" sa den unge mannen. Inte till Viktor. Till Amma.
+
+Alla runt bordet blev en aning stillare.
+
+"Tre veckor. Kanske", sa Amma.
+
+Han drog ner en bit bröd från kannen och svarade inte direkt. Sedan, utan att titta upp: "Maja höll ut sju år."
+
+Ingenting i rösten. Inget svar begärt. Han fortsatte äta.
+
+Amma höll tallriken.
+
+Karin sa: "Tal. Det räcker."
+
+Tal drog på axlarna. Tillräckligt litet för att kunna förnekas.
+
 ---
 
 Hon kände det i Viktor först. Han satte ner gaffeln mitt i en mening och riktade sig mot dörren.
@@ -148,9 +184,9 @@ Li lyfte blicken från tallriken — det enda tillfälle under hela middagen.
 
 Tvillingarna satt rakare.
 
-Cassia P:s ansikte var inte vad fotografierna visade. Det var problemet med fotografier: de visade en kontur, ett leende, en position. De visade inte ett ansikte som var *fullständigt* — svårt att titta bort ifrån och svårare att läsa.
+Cassias ansikte stämde inte med fotografierna. Det hade hon förväntat sig. Fotografierna hade visat symmetri, kontroll. Ansiktet framför henne hade djupare linjer, ett ärr vid ögonbrynet som skuggades bort i varje bild. Munnen var bredare än den borde vara.
 
-Hon rörde sig in i rummet utan att ta mer plats än kroppen krävde, och ändå förändrades någonting. Långt lockigt hår som grånade vid tinningarna, löst upplaget. Ljusa ögon som gick runt bordet med ett stilla, lyssnande uttryck.
+Långt lockigt hår som grånade vid tinningarna, löst upplaget. Ljusa ögon som gick runt bordet.
 
 Viktor. Karin. Li. Tvillingarna. Samuel, som faktiskt tystnade.
 
@@ -168,7 +204,7 @@ Det var inte sättet man sa det till en inspektör. Amma höll leendet på rätt
 
 En sekund utan rörelse runt bordet.
 
-"Sellen hette han", sa Cassia. "Sju år hos oss."
+"Maja hette hon", sa Cassia. "Sju år hos oss."
 
 Viktor satte ner gaffeln. Metall mot trä.
 
@@ -176,21 +212,23 @@ Samuel öppnade munnen och stängde den igen.
 
 Li åt vidare.
 
-Cassia skar upp sitt bröd i jämna bitar. "Rapporter är alltid sanna i vad de beskriver", sa hon. Ingen bitterhet, ingen anklagelse. "Det de inte beskriver är svårare."
+Tal lyfte inte blicken från tallriken men hans käke spändes.
+
+Cassia skar upp sitt bröd i jämna bitar. "Rapporter är alltid sanna i vad de beskriver", sa hon. "Det de inte beskriver är svårare."
 
 Amma åt sin mat och sa ingenting.
 
 ---
 
-Efteråt samlade de sig utanför köket. Kvällen hade kommit fort, utan träd och utan höghus att hålla kvar solen med. Luften fortfarande varm men annorlunda nu — torrare, urlagrad. Stjärnorna kom en efter en.
+Efteråt samlade de sig utanför köket. Kvällen hade kommit fort. Luften fortfarande varm, torrare nu, urlagrad. Stjärnorna kom en efter en.
 
-Viktor stod vid väggen och pratade med Karin. Samuel gestikulerade mot tvillingarna. Li var borta — hade glidit iväg utan att Amma märkt det.
+Viktor stod vid väggen och pratade med Karin. Samuel gestikulerade mot tvillingarna. Li var borta — hade glidit iväg utan att Amma märkt det. Tal satt på en sten längre bort, ensam, med händerna knäppta framför sig och blicken mot muren.
 
 Amma stod lite avsides med sitt glas vatten.
 
 "Du bor i rummet vid norra väggen."
 
-Cassia stod bredvid henne. Amma visste inte exakt när det hänt. Ingen rörelse hon registrerat. Bara närvaro. Tre steg bort, kanske fyra.
+Cassia stod bredvid henne. Tre steg bort, kanske fyra. Amma visste inte exakt när det hänt.
 
 "Ja."
 
@@ -198,37 +236,39 @@ Cassia stod bredvid henne. Amma visste inte exakt när det hänt. Ingen rörelse
 
 "Det stör mig inte."
 
-Cassia tittade mot solpanelerna. Mot den mörknade horisonten. Tystnad utan behov av att fylla den.
+Cassia tittade mot solpanelerna. Den mörknade horisonten. Ingen av dem sa något.
 
-"Myntan i ditt rum", sa hon sedan. "Sellen satte dit den."
+"Myntan i ditt rum", sa hon sedan. "Maja satte dit den."
 
 Amma sa ingenting.
 
 "Amma."
 
-Cassia vände sig mot henne. En naturlig rörelse. Hennes ögon gick direkt till Ammas och stannade, och Amma kände det. Inte i tanken. I bröstkorgen, ett litet tryck, en signal hon inte hade ett namn på och inte ville ha ett.
+Cassia vände sig mot henne. Ögonen gick direkt till Ammas och stannade. Amma kände det i bröstkorgen. Ett tryck. Operativt problem.
 
 "Om du hittar något under besiktningen", sa Cassia. "Något konstigt. Något som inte stämmer."
 
-En paus, exakt ett andetag lång.
+En paus, ett andetag lång.
 
 "Kom till mig. Innan du lämnar in rapporten."
 
 "Självklart", sa Amma. Det enda möjliga svaret.
 
-Cassia nickade. En gång, liten. Sedan gick hon tillbaka mot de andra — lade handen på Viktors axel i förbigående, sa något som fick hans skratt att komma oavsiktligt och äkta.
+Cassia nickade. Sedan gick hon tillbaka mot de andra, lade handen på Viktors axel i förbigående, sa något som fick honom att skratta.
 
-Amma drack sitt vatten.
+Amma drack sitt vatten. Tal var fortfarande på sin sten, blicken mot muren.
 
 ---
 
 Axeln brände mot madrassen. Fuktigare nu på natten, och det satte sig alltid i ärrvävnaden på ett sätt hon aldrig lärt sig förekomma. Hon vände sig, lade vänster sida mot kudden.
 
-Karin: visste vad hon var. Hade sagt det rakt ut utan drama och sedan inte gjort mer med det. Möjligen välvilja. Möjligen en påminnelse om skuld.
+Karin: visste vad hon var. Hade sagt det rakt ut och sedan inte gjort mer med det.
 
-Samuel: sex år, avslaget från Capitol, kommunikationssystemet. Den som, om hon behövde göra något med nätverket, hade bäst chans att se det. Ärret: gammalt, läkt. Hade han varit vid muren?
+Samuel: sex år, avsänd från Capitol, kommunikationssystemet. Den som, om hon behövde göra något med nätverket, hade bäst chans att se det. Ärret: gammalt, läkt. Hade han varit vid muren?
 
 Tvillingarna: okänt.
+
+Tal: ny, ohyfsad. "Maja höll ut sju år." Han satt på sin sten och tittade mot muren.
 
 Och Cassia.
 
@@ -236,13 +276,11 @@ Och Cassia.
 
 Amma blundade.
 
-Cassia var oklar. Cassia kunde vara vad som helst. Och signalen som satt kvar i bröstet nu. Det var ett operativt problem, ingenting mer. Att bli behandlad som en jämlike av fel person. Att bli läsbar.
-
-Hon hade arbetat åtta år med att vara osynlig.
+Cassia var oklar. Cassia kunde vara vad som helst.
 
 Ur fönstret: modul 7-12, mörk silhuett mot stjärnorna. Ingen belysning. Ingen rörelse.
 
-Sellen hade arbetat sju år. Kontrollerat allting tre gånger. Dog ensam vid modulens bas en eftermiddag.
+Maja hade arbetat sju år. Kontrollerat allting tre gånger. Dog ensam vid modulens bas en eftermiddag.
 
 Produktionsavvikelsen i modulen rapporterades inte förrän efteråt. Inte före.
 
@@ -251,5 +289,9 @@ Produktionsavvikelsen i modulen rapporterades inte förrän efteråt. Inte före
 Det var vad det var.
 
 Cassia hade inte sagt varför hon ville ha rapporten först. Och Amma hade inte frågat.
+
+Tre veckor. Kanske två.
+
+Fönstret rasslade i vinden. Pigeln som satt fel. Hon lyssnade på det tills det blev ett mönster, och mönstret blev ingenting.
 
 Sömnen kom inte.

@@ -4,16 +4,16 @@
 
 | When | Event | Characters Involved | Significance |
 |------|-------|---------------------|--------------|
-| ~7 years before story | Sellen arrives at Station 7-Syd as technician | Sellen | Establishes his 7-year tenure |
+| ~7 years before story | Maja arrives at Station 7-Syd as technician | Maja | Establishes her 7-year tenure |
 | ~6 years before story | Samuel arrives at Station 7-Syd | Samuel | His "six years" established in chapter 1 |
 | ~3 years before story | Cassia becomes station commander | Cassia | Had nightmares first months; found her footing at a sunset |
 | ~3 years before story | Samuel's Capitol posting application rejected | Samuel | Has been unable to leave since |
-| Before story | Sellen begins working intensively at modul 7-12 | Sellen | "Hour after hour" — what did he find? |
-| Before story | Sellen stops speaking to Samuel | Sellen, Samuel | Unexplained break. He carries it. |
-| Before story | Sellen dies at modul 7-12 | Sellen, Viktor (found body) | Official cause: electrical fault in control panel. Viktor found him at the module's base. |
-| After Sellen's death | Production anomaly at modul 7-12 reported | Unknown | Anomaly logged *after* death, not before. Significance unclear. |
-| After Sellen's death | Tal arrives to replace Sellen | Tal | "Solens son" — goes in his dead father's footsteps |
-| Shortly before story | Tal departs Station 7-Syd | Tal, Cassia | Circumstances unknown. Cassia referred to Sellen as "the previous technician" — Tal's tenure brief. |
+| Before story | Maja begins working intensively at modul 7-12 | Maja | "Hour after hour" — what did she find? |
+| Before story | Maja stops speaking to Samuel | Maja, Samuel | Unexplained break. He carries it. |
+| Before story | Maja dies at modul 7-12 | Maja, Viktor (found body) | Official cause: electrical fault in control panel. Viktor found her at the module's base. |
+| After Maja's death | Production anomaly at modul 7-12 reported | Unknown | Anomaly logged *after* death, not before. Significance unclear. |
+| After Maja's death | Tal arrives to replace Maja | Tal | "Solens son" — goes in his dead father's footsteps |
+| Shortly before story | Tal departs Station 7-Syd | Tal, Cassia | Circumstances unknown. Cassia referred to Maja as "the previous technician" — Tal's tenure brief. |
 
 ---
 
@@ -43,8 +43,8 @@
 |------|-------|---------------------|----------|--------------|
 | Midday, Day 1 | Amma arrives at Station 7-Syd by car | Amma | Station gate | Cover: Amma Wost, Technical Inspector, Energy Dept |
 | Arrival | Karin meets Amma at gate, issues assistant button | Amma, Karin | Gate / corridor | Karin identifies Amma as being from wrong side of wall. Does not wear assistant button herself. |
-| Afternoon | Viktor gives Amma a tour — excludes modul 7-12 | Amma, Viktor | Station grounds, modules 3, 7, pumphouse, greenhouse | Viktor omits 7-12. Names Sellen when asked. Hands stop shaking at his name. |
+| Afternoon | Viktor gives Amma a tour — excludes modul 7-12 | Amma, Viktor | Station grounds, modules 3, 7, pumphouse, greenhouse | Viktor omits 7-12. Names Maja when asked. Hands stop shaking at her name. |
 | 17:00, Day 1 | Dinner — full station ensemble | Amma, Karin, Viktor, Samuel, Li, Elias, Nora | Kitchen | Samuel identifies modul 7-12 as Amma's real target at first meeting. Li silent throughout. |
-| 17:00+ | Cassia arrives late to dinner | Cassia + all | Kitchen | Room reacts to her presence. She names Sellen. "Rapporter är alltid sanna i vad de beskriver." |
+| 17:00+ | Cassia arrives late to dinner | Cassia + all | Kitchen | Room reacts to her presence. She names Maja. "Rapporter är alltid sanna i vad de beskriver." |
 | Evening | Cassia privately asks Amma to report to her first | Amma, Cassia | Outside, between buildings | Critical: Cassia wants findings before official report. Amma agrees. Does not ask why. |
 | Night, Day 1 | Amma lies awake, inventories threats, watches modul 7-12 | Amma | Her room | Cannot sleep. Signal of disruption she hasn't named. |

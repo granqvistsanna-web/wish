@@ -12,7 +12,7 @@
 - **Befattning/Roll**: Ansvarig för kommunikationssystemet. Den som skulle kunna upptäcka om Amma gör något hon inte borde med nätverket.
 - **Nyckelhistorik**:
   1. Kom till farmen för sex år sedan
-  2. Var "den ny" tillsammans med Sellen — sedan slutade han prata med Samuel
+  2. Var "den ny" tillsammans med Maja — sedan slutade hon prata med Samuel
   3. Sökte tjänst i Capitol för tre år sedan, fick avslag
   4. Ärret — bakgrund okänd men Amma undrar om han "varit vid muren"
 
@@ -31,7 +31,7 @@
 
 ## Relationer
 - **Relation till Amma**: Nyfiken och misstänksam. Ser igenom hennes fasad. Konfronterar henne med det. Men också — försiktigt — omtänksam (handen på axeln efter explosionen). **Primär romantisk spänning** — han är den enda som ser henne, vilket är det farligaste möjliga.
-- **Relation till Sellen**: Komplicerad. De var nya tillsammans, sedan slutade Sellen prata med Samuel. Samuel bär det.
+- **Relation till Maja**: Komplicerad. De var nya tillsammans, sedan slutade Maja prata med honom. Samuel bär det.
 - **Relation till Cassia**: Respektfull ("Cassia säger att jag pratar för mycket. Hon har rätt.")
 - **Relation till Karin**: Tolererar hennes tillrättavisningar.
 
