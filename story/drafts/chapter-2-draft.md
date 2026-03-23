@@ -38,7 +38,7 @@ Han var oväntat tyst för att vara den han var — ingen mening halvfärdig i m
 
 "Ja."
 
-Han satte sig vid bordets andra ände. Inte mitt emot — ett par stolar åt sidan, ett snett avstånd som varken var avvisande eller inviterande. Amma märkte det.
+Han satte sig vid bordets andra ände, ett par stolar åt sidan, snett.
 
 "Jet lag?" sa han.
 
@@ -60,7 +60,7 @@ Amma sa ingenting. Han fyllde inte in tystnaden.
 
 Det var för snabbt. Amma drack av kaffet. "Inspektionsprotokoll."
 
-Samuel nickade — inte övertygad, men inte pressande. Nicken var ett erkännande av spelreglerna snarare än ett godkännande av dem. Han vände sig mot fönstret och pratade sedan om vädersystemet norr om stationen i fem minuter, med en detaljnivå som antydde att han kände sig hemma i ämnet och gärna stannade där.
+Samuel nickade. Han vände sig mot fönstret och pratade sedan om vädersystemet norr om stationen i fem minuter, med en detaljnivå som antydde att han kände sig hemma i ämnet och gärna stannade där.
 
 Amma lyssnade. Antecknade i bakhuvudet: *Frågade om 7-12 omedelbart. Accepterade avböjning utan utmaning. Vill veta om jag prioriterar den — inte om jag vill ha hjälp.*
 
@@ -82,11 +82,19 @@ Samuel tittade in i sin kopp.
 
 Viktor var en god guide. Han berättade om modul tre med ägarens precision — vilken skarv han svetsade, vilken koppling som bytts ut den vintern det blåste hårdare än väderprognosen sagt, hur de löst ett droppläckage i pumpcirkeln med en improviserad tätningslist som egentligen var till för ett annat system men fungerade utmärkt. Det var goda berättelser. Amma lyssnade och ställde tekniska frågor som fick honom att öppna sig ytterligare.
 
-"Du vet din sak", sa han, och det var äkta.
+"Du vet din sak", sa han.
 
 "Åtta år."
 
-Han skakade lite på huvudet. "Maja var likadan. Teknisk in i märgen." Hans händer lade sig platt mot modulens plåtvägg — inte en gest, bara en landning. "Hon lärde mig mer än jag lärde henne mot slutet."
+Viktor lutade huvudet. "Fyra?"
+
+"Åtta."
+
+"Sju?"
+
+"Åtta. Åtta år."
+
+Han rörde vid örat med en förströdd gest och fortsatte utan att kommentera felet. Hans händer darrade svagt som vanligt, den där ojämna rytmen i fingrarna. "Maja var likadan. Teknisk in i märgen." Händerna lade sig platt mot modulens plåtvägg och darrningen upphörde. "Hon lärde mig mer än jag lärde henne mot slutet."
 
 Amma antecknade: *Viktor: Maja har inte blivit ett förflutet för honom. Han pratar om henne i presens.*
 
@@ -95,6 +103,22 @@ De gick modul fem. Viktor berättade om Noras hantering av pumpsystemet, om en v
 Han ledde henne inte mot modul sex, inte mot åtta. Inte mot 7-12.
 
 Amma registrerade det utan att kommentera. Väntade.
+
+På vägen tillbaka märkte hon stegen bakom sig. Gruset knarrade i en annan takt än hennes — tyngre, kortare intervall. Hon stannade inte, men hon lyssnade.
+
+Tal gick tjugo meter bakom henne. Händerna i fickorna, blicken riktad mot marken som om han bara råkade gå i samma riktning. Han hade inte varit där under rundvandringen. Han hade dykt upp efter.
+
+Amma fortsatte mot huvudbyggnaden utan att vända sig om.
+
+Vid ingången stod Cassia i dörröppningen. Hon sa ingenting till Amma, bara nickade kort. Men hennes blick passerade över Ammas axel och stannade.
+
+"Tal." Rösten var lugn. "Du har uppgifter vid södra rörverket."
+
+Tal stannade. En sekund, sedan vände han och gick. Inget svar. Ingen protest.
+
+Cassia tittade efter honom tills han försvunnit runt hörnet. Sedan vände hon sig mot Amma med ett uttryck som inte avslöjade om hon tyckte att det som just hänt krävde en förklaring eller inte.
+
+Hon gav ingen.
 
 ---
 
@@ -116,7 +140,7 @@ Nästa post: fredag, sjuttonde maj. Ingen namnsignatur. Bara ett ID: *T-07-svc*.
 
 Amma fotograferade posten. Scrollade vidare. Fem poster till — alla *T-07-svc*. Alla rutinformulerade. Alla utan personnamn.
 
-Maja dog i slutet av april. Fyra veckor efter sin sista egna notering.
+Maja dog i slutet av april. Två veckor efter sin sista egna notering.
 
 *T-07-svc* dök upp tre veckor efter det.
 
@@ -208,7 +232,7 @@ Amma lade ner pennan.
 
 Han vände sig om.
 
-Det sneda leendet var borta. Vad som var kvar under det var ett uttryck Amma inte riktigt kunnat läsa på hans ansikte hittills — inte kallt, inte varmt. Mer som ett svar som visste vad det kostade att ge.
+Det sneda leendet var borta. Vad som var kvar under det var ett uttryck hon inte sett på hans ansikte förut. Äldre på något vis.
 
 "Och sedan föll hon", sa han. "Ja."
 
@@ -254,13 +278,13 @@ Middagen var samma bord, samma stolar, men luften i rummet var annorlunda på et
 
 Viktor pratade om de norra panelerna. Nora ställde en fråga om schemat. Karin serverade och satt inte ner.
 
-Li var frånvarande.
+Li var frånvarande. Tal likaså — stolen vid bordsänden tom, ingen kommentar.
 
 Cassia satt vid sitt ände av bordet med samma stilla uppmärksamhet hon alltid hade. En gång, under en paus mellan Viktors meningar, tittade hon direkt på Amma.
 
 Inte länge. Två sekunder. Den sortens blick som betyder *jag noterar vad du gör* utan att specificera vad det var.
 
-Amma åt sin mat och sa ingenting.
+Karin satte ner en extra skål med bröd framför Amma utan att titta på henne. Amma åt sin mat och sa ingenting.
 
 Samuel pratade genom det mesta av middagen. Vädersystemen norr om stationen. Ett kommunikationsfel som varit intermittent i två veckor. En historia om en tidigare placering som fick Elias att skratta. Hans händer rörde sig. Hans röst fyllde rummet.
 
@@ -270,7 +294,7 @@ Inte på henne. Över utrymmet.
 
 Hon hade sett underrättelseofficerare göra det. Blicken som svepte snarare än landade.
 
-Tillbaka i sitt rum skriver hon: *Samuel. Primär funktion kan vara surveyans snarare än kommunikationsteknik.*
+Tillbaka i sitt rum skrev hon: *Samuel. Primär funktion kan vara surveyans snarare än kommunikationsteknik.*
 
 Hon tittade på det hon skrivit en stund.
 
@@ -342,7 +366,7 @@ Maja hade arbetat sju år. Kontrollerat allting tre gånger.
 
 Vad hade hon hittat de sista veckorna som inte synts under sju år?
 
-Samuel visste mer än han sa. Han hade valt att säga just det han sa. Det sättet att förhålla sig till en annan person — inte varning, inte tystnad, utan ett enstaka datum point lämnat löst — var ett sätt hon inte riktigt hade ett bra namn på. Det var inte neutralt. Det var inte allians.
+Samuel visste mer än han sa. Han hade valt att säga just det han sa — en enda datapunkt, lämnad löst, utan sammanhang. Det hade inget namn hon kände till.
 
 Det var mer som att någon lade ner ett kort på bordet och drog tillbaka handen utan att visa resten av handen.
 
